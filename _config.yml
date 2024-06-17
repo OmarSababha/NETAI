@@ -19,7 +19,7 @@ just_the_docs:
   nav_order: 
     - Home
     - Team
-    # - Research
+    - Research
     - Publications
     - Patents
 

@@ -2,6 +2,7 @@
 layout: default
 title: Research
 nav_order: 3
+nav_exclude: true
 ---
 
 # Featured and Current Research Projects
