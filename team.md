@@ -6,21 +6,20 @@ nav_order: 2
 
 # Our Team
 
-## Principal Investigator
+## Team Lead
+<div style="display: flex; align-items: flex-start;">
+  <img src="images/omar3m.jpg" alt="Omar Alhussein" style="width: 150px; margin-right: 20px;">
+  <div>
+    <strong>Omar Alhussein</strong><br>
+    Assistant Professor at Khalifa University, Abu Dhabi, UAE<br><br>
+    I am currently an assistant professor with the computer science department at Khalifa University, United Arab Emirates. Prior to joining Khalifa University, I have worked as a senior research engineer with the advanced networking team at Huawei Technologies Canada, Ottawa, Canada, from 2020 to 2023.<br><br>
+    I have received my Ph.D. degree with the <a href="https://uwaterloo.ca/broadband-communications-research-lab/">BBCR lab</a> at the University of Waterloo under the supervision of Prof. <a href="https://bbcr.uwaterloo.ca/~wzhuang/">Weihua Zhuang</a>. My <a href="research_phd.html">thesis</a> focuses on the orchestration and provisioning of network function virtualization enabled multicast services.<br><br>
+    I have received my MASc degree from Simon Fraser University under the supervision of Prof. <a href="https://www.sfu.ca/~jiel/">Jie Liang</a> and Prof. <a href="https://sites.google.com/view/muhaidat/home?authuser=0">Sami Muhaidat</a>. My <a href="research_masc.html">thesis</a> is on the performance analysis of generalized and composite wireless fading channels through the use of mixture distributions.<br><br>
+    Please feel free to contact me for anything.
+  </div>
+</div>
 
-![Omar Alhussein](images/omar3m.jpg){: style="width: 150px;"}
-**Omar Alhussein**  
-Assistant Professor at Khalifa University, Abu Dhabi, UAE
-
-I am currently an assistant professor with the computer science department at Khalifa University, United Arab Emirates. Prior to joining Khalifa University, I have worked as a senior research engineer with the advanced networking team at Huawei Technologies Canada, Ottawa, Canada, from 2020 to 2023. 
-
-I have received my Ph.D. degree with the [BBCR lab](https://uwaterloo.ca/broadband-communications-research-lab/) at the University of Waterloo under the supervision of Prof. [Weihua Zhuang](https://bbcr.uwaterloo.ca/~wzhuang/). My [thesis](research_phd.html) focuses on the orchestration and provisioning of network function virtualization enabled multicast services. 
-
-I have received my MASc degree from Simon Fraser University under the supervision of Prof. [Jie Liang](https://www.sfu.ca/~jiel/) and Prof. [Sami Muhaidat](https://sites.google.com/view/muhaidat/home?authuser=0). My [thesis](research_masc.html) is on the performance analysis of generalized and composite wireless fading channels through the use of mixture distributions.
-
-Please feel free to contact me for anything.
-
-## Connect
+### Connect
 - Email: [oalhusse@gmail.com](mailto:oalhusse@gmail.com)
 - [Google Scholar](https://scholar.google.ca/citations?user=_4mKHpcAAAAJ&hl=en)
 - [ResearchGate](https://www.researchgate.net/profile/Omar_Alhussein)
