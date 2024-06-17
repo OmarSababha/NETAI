@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Team
-nav_order: 6
+nav_order: 2
 ---
 
 # Our Team
@@ -44,7 +44,7 @@ Thesis: Exploring AI in Network Optimization
 
 ## PhD Students
 
-![Nouf Alabbasi](images/nouf_alabbasi_profile.png){: style="width: 150px;"}
+![Nouf Alabbasi](images/Nouf_alabbasi_profile.png){: style="width: 150px;"}
 **Nouf Alabbasi**  
 Ph.D. Student
 
