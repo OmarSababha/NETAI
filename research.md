@@ -4,7 +4,13 @@ title: Research
 nav_order: 3
 ---
 
-# Research Projects
+# Featured and Current Research Projects
+
+
+## Goal-oriented Semantic-based Networks
+![AI for Net](images/splitNNzoomed.jpg){: .profile-pic }
+
+
 
 ## AI for Net (2020 - present)
 

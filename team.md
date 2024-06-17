@@ -15,13 +15,13 @@ nav_order: 2
     </div>
     <div style="margin-top: 10px;">
       <a href="mailto:oalhusse@gmail.com" style="margin-right: 10px;">
-        <img src="images/email.jpeg" alt="Email" style="width: 24px;">
+        <img src="images/icons/email.jpeg" alt="Email" style="width: 24px;">
       </a>
       <a href="https://scholar.google.ca/citations?user=_4mKHpcAAAAJ&hl=en" style="margin-right: 10px;">
-        <img src="images/scholar.png" alt="Google Scholar" style="width: 24px;">
+        <img src="images/icons/scholar.png" alt="Google Scholar" style="width: 24px;">
       </a>
       <a href="https://www.researchgate.net/profile/Omar_Alhussein">
-        <img src="images/RG.png" alt="ResearchGate" style="width: 24px;">
+        <img src="images/icons/RG.png" alt="ResearchGate" style="width: 24px;">
       </a>
     </div>
   </div>
@@ -32,12 +32,6 @@ nav_order: 2
     Please feel free to contact me for anything.
   </div>
 </div>
-
-### Connect
-- Email: [oalhusse@gmail.com](mailto:oalhusse@gmail.com)
-- [Google Scholar](https://scholar.google.ca/citations?user=_4mKHpcAAAAJ&hl=en)
-- [ResearchGate](https://www.researchgate.net/profile/Omar_Alhussein)
-
 
 <!-- ## Collaborators
 
