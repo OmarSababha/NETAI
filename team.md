@@ -12,17 +12,16 @@ nav_order: 2
     <img src="images/omar3m.jpg" alt="Omar Alhussein" style="width: 150px;">
     <div>
       <strong>Omar Alhussein</strong><br>
-      Assistant Professor at Khalifa University, Abu Dhabi, UAE
     </div>
     <div style="margin-top: 10px;">
       <a href="mailto:oalhusse@gmail.com" style="margin-right: 10px;">
-        <img src="images/email_icon.png" alt="Email" style="width: 24px;">
+        <img src="images/email.jpeg" alt="Email" style="width: 24px;">
       </a>
       <a href="https://scholar.google.ca/citations?user=_4mKHpcAAAAJ&hl=en" style="margin-right: 10px;">
-        <img src="images/scholar_icon.png" alt="Google Scholar" style="width: 24px;">
+        <img src="images/scholar.png" alt="Google Scholar" style="width: 24px;">
       </a>
       <a href="https://www.researchgate.net/profile/Omar_Alhussein">
-        <img src="images/researchgate_icon.png" alt="ResearchGate" style="width: 24px;">
+        <img src="images/RG.png" alt="ResearchGate" style="width: 24px;">
       </a>
     </div>
   </div>
