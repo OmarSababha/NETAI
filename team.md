@@ -8,12 +8,12 @@ nav_order: 2
 
 ## Team Lead
 <div style="display: flex; align-items: flex-start;">
-  <div style="margin-right: 40px; text-align: center;">
+  <div style="margin-right: 100px; text-align: center;">
     <img src="images/omar3m.jpg" alt="Omar Alhussein" style="width: 150px;">
     <div>
       <strong>Omar Alhussein</strong><br>
     </div>
-    <div style="margin-top: 10px;">
+    <div style="margin-top: 100px;">
       <a href="mailto:oalhusse@gmail.com" style="margin-right: 10px;">
         <img src="images/icons/email.jpeg" alt="Email" style="width: 40px;">
       </a>

@@ -29,10 +29,12 @@ My MASc was obtained from Simon Fraser University under the supervision of Prof.
 
 Please feel free to contact me for anything.
  -->
-## Connect
+
+ 
+<!-- ## Connect
 
 - Email: [oalhusse@gmail.com](mailto:oalhusse@gmail.com)
 - [Google Scholar](https://scholar.google.ca/citations?user=_4mKHpcAAAAJ&hl=en)
-- [ResearchGate](https://www.researchgate.net/profile/Omar_Alhussein)
+- [ResearchGate](https://www.researchgate.net/profile/Omar_Alhussein) -->
 
 
