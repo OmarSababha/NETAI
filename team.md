@@ -14,6 +14,17 @@ nav_order: 2
       <strong>Omar Alhussein</strong><br>
       Assistant Professor at Khalifa University, Abu Dhabi, UAE
     </div>
+    <div style="margin-top: 10px;">
+      <a href="mailto:oalhusse@gmail.com" style="margin-right: 10px;">
+        <img src="images/email_icon.png" alt="Email" style="width: 24px;">
+      </a>
+      <a href="https://scholar.google.ca/citations?user=_4mKHpcAAAAJ&hl=en" style="margin-right: 10px;">
+        <img src="images/scholar_icon.png" alt="Google Scholar" style="width: 24px;">
+      </a>
+      <a href="https://www.researchgate.net/profile/Omar_Alhussein">
+        <img src="images/researchgate_icon.png" alt="ResearchGate" style="width: 24px;">
+      </a>
+    </div>
   </div>
   <div>
     I am currently an assistant professor with the computer science department at Khalifa University, United Arab Emirates. Prior to joining Khalifa University, I have worked as a senior research engineer with the advanced networking team at Huawei Technologies Canada, Ottawa, Canada, from 2020 to 2023.<br><br>
