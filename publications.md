@@ -97,4 +97,23 @@ nav_order: 4
     *O. Alhussein A. Hammadi, P. C. Sofotasios, S. Muhaidat, J. Liang, M. Alqutayri, G. K. Karagiannidis*  
     In Proc. IEEE Int. Conf. Wireless Mobile Comput., Netw. Commun., Abu Dhabi, UAE, Oct. 2015, pp. 1–7.  
     [Download Paper](https://arxiv.org/pdf/1510.05594.pdf)  
-    [Presentation](files/publications
+    [Presentation](files/publications/WiMob_Omar.pdf)
+
+18. **Optimal Cooperative Spectrum Sensing over Composite Fading Channels**  
+    *B. Selim, O. Alhussein, G. K. Karagiannidis, S. Muhaidat*  
+    IEEE Int. Commun. Conf. (ICC’15 (02) WC). London.  
+    [Download Paper](http://geokarag.webpages.auth.gr/wp-content/papercite-data/pdf/c136.pdf)
+
+19. **A Unified Approach for Representing Wireless Channels using EM-Based Finite Mixture of Gamma Distributions**  
+    *O. Alhussein, S. Muhaidat, J. Liang, P. D. Yoo*  
+    In Proc. Globecom Workshops, 2014, pp. 1008–1013.  
+    [Download Paper](https://goo.gl/pVFPH7)  
+    [Presentation](files/publications/Globecom Presentation_Dec2014.pdf)
+
+20. **Spectrum Sensing Techniques for OFDM-Based Cognitive Radio Networks**  
+    *O. Alhussein, R. Mahmoud, K. Eledlebi, and Z. Sead*  
+    Terena Networking Conference (TNC2013), Maastricht, Netherlands, June 2013.
+
+21. **A Mathematical Model to Decrease Obesity in the UAE**  
+    *S. Azzeh, O. Alhussain, S. A. Abusamra*  
+    In Proc. ASME IMECE, 2011, pp. 385-390.
