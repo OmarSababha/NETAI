@@ -1,35 +1,39 @@
 ---
-title: Home
 layout: home
+title: Home
+nav_order: 1
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Omar Alhussein
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+## Applied Research Interests
+- Network operations and management
+- Network intelligence
+- Networking and protocol design
+- Mobile-edge and cloud computing
 
-More specifically, the created site:
+## Theoretical Research Interests
+- Distributed learning
+- Information-bottleneck theory
+- Multi-agent reinforcement learning
+- Explainable AI
+- Semantic communications and learning
+- Large-language models for the network
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+## About
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+I am an Assistant Professor at Khalifa University, Abu Dhabi, United Arab Emirates. From 2020 to 2023, I worked as a senior research engineer with Huawei Ottawa Research and Development Centre.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+I received my Ph.D. degree with the [BBCR lab](https://uwaterloo.ca/broadband-communications-research-lab/) at the University of Waterloo under the supervision of Prof. [Weihua Zhuang](https://bbcr.uwaterloo.ca/~wzhuang/). My [thesis](research_phd.html) focuses on the orchestration and provisioning of network function virtualization enabled multicast services.
 
-To get started with creating a site, simply:
+My MASc was obtained from Simon Fraser University under the supervision of Prof. [Jie Liang](https://www.sfu.ca/~jiel/) and Prof. [Sami Muhaidat](https://sites.google.com/view/muhaidat/home?authuser=0). My [thesis](research_masc.html) is on the performance analysis of generalized and composite wireless fading channels through the use of mixture distributions.
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+Please feel free to contact me for anything.
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+## Connect
 
-----
+- Email: [oalhusse@gmail.com](mailto:oalhusse@gmail.com)
+- [Google Scholar](https://scholar.google.ca/citations?user=_4mKHpcAAAAJ&hl=en)
+- [ResearchGate](https://www.researchgate.net/profile/Omar_Alhussein)
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+![Omar Alhussein](images/omar3m.jpg)
