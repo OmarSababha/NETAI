@@ -17,9 +17,11 @@ nav_order: 2
       <a href="mailto:oalhusse@gmail.com" style="margin-right: 10px;">
         <img src="images/icons/email.jpeg" alt="Email" style="width: 24px;">
       </a>
+      <br>
       <a href="https://scholar.google.ca/citations?user=_4mKHpcAAAAJ&hl=en" style="margin-right: 10px;">
         <img src="images/icons/scholar.png" alt="Google Scholar" style="width: 24px;">
       </a>
+      <br>
       <a href="https://www.researchgate.net/profile/Omar_Alhussein">
         <img src="images/icons/RG.png" alt="ResearchGate" style="width: 24px;">
       </a>
@@ -29,7 +31,8 @@ nav_order: 2
     I am currently an assistant professor with the computer science department at Khalifa University, United Arab Emirates. Prior to joining Khalifa University, I have worked as a senior research engineer with the advanced networking team at Huawei Technologies Canada, Ottawa, Canada, from 2020 to 2023.<br><br>
     I have received my Ph.D. degree with the <a href="https://uwaterloo.ca/broadband-communications-research-lab/">BBCR lab</a> at the University of Waterloo under the supervision of Prof. <a href="https://bbcr.uwaterloo.ca/~wzhuang/">Weihua Zhuang</a>. My <a href="research_phd.html">thesis</a> focuses on the orchestration and provisioning of network function virtualization enabled multicast services.<br><br>
     I have received my MASc degree from Simon Fraser University under the supervision of Prof. <a href="https://www.sfu.ca/~jiel/">Jie Liang</a> and Prof. <a href="https://sites.google.com/view/muhaidat/home?authuser=0">Sami Muhaidat</a>. My <a href="research_masc.html">thesis</a> is on the performance analysis of generalized and composite wireless fading channels through the use of mixture distributions.<br><br>
-    Please feel free to contact me for anything.
+    
+
   </div>
 </div>
 
@@ -62,7 +65,7 @@ LLM for network operations and management
 
 ![Omar Erak](images/omar_erak_profile.png){: style="width: 150px;"}
 
-**Sara Khan**  
+**Omar Erak**  
 Ph.D. Student
 goal-oriented networks
 
