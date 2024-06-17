@@ -8,7 +8,7 @@ nav_order: 2
 
 ## Team Lead
 <div style="display: flex; align-items: flex-start;">
-  <div style="margin-right: 20px; text-align: center;">
+  <div style="margin-right: 40px; text-align: center;">
     <img src="images/omar3m.jpg" alt="Omar Alhussein" style="width: 150px;">
     <div>
       <strong>Omar Alhussein</strong><br>
