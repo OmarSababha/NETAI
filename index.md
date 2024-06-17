@@ -6,19 +6,10 @@ nav_order: 1
 
 # Omar Alhussein
 
-## Applied Research Interests
-- Network operations and management
-- Network intelligence
-- Networking and protocol design
-- Mobile-edge and cloud computing
-
-## Theoretical Research Interests
-- Distributed learning
-- Information-bottleneck theory
-- Multi-agent reinforcement learning
-- Explainable AI
-- Semantic communications and learning
-- Large-language models for the network
+##  Research Interests
+- Network intelligence, protocol design, Semantic communications and learning
+- Large-language models for the network, distributed learning, information-bottleneck theory
+- Explainable and Responsible AI
 
 ## About
 
