@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 ---
 
-# Omar Alhussein
+# Welcome to NetAI Research Group at Khalifa University led by Dr. Omar Alhussein
 
 ##  Research Interests
 - Network intelligence, protocol design, Semantic communications and learning
@@ -14,14 +14,9 @@ nav_order: 1
 ## News
 
 ### June 2024
-- **New Publication**: Our latest paper on "Active ML for 6G" is now available on arXiv. [Read more](https://arxiv.org/abs/2406.03630).
+- **Submitted Paper**: We have submitted a vision magazine paper on [active machine learning for 6G networks](https://arxiv.org/abs/2406.03630).
 
-### May 2024
-- **Award**: Received the Best Paper Award at IEEE Globecom 2023 for our work on "Dynamic Encoding and Decoding of Information for Split Learning in Mobile-Edge Computing".
-- **New Team Members**: Welcome to Dr. John Doe and Dr. Jane Smith who have joined our team as postdoctoral researchers.
-
-### April 2024
-- **Funding**: Secured a new research grant from the National Science Foundation for our project on AI-driven network optimization.
+- **Accepted Paper**: Our latest paper on [LLM-based curriculum design for mobile networks](https://arxiv.org/abs/2405.18039v1) has been accepted to Proc. IEEE/CIC ICCC.
 
 <!-- 
 
