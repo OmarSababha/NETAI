@@ -4,7 +4,8 @@ title: Home
 nav_order: 1
 ---
 
-# Welcome to NetAI Research Group at Khalifa University led by Dr. Omar Alhussein
+# Welcome to KU-NetAI Research Group
+<p style="font-size: smaller; margin-top: -15px;">led by Dr. Omar Alhussein</p>
 
 ##  Research Interests
 - Network intelligence, protocol design, Semantic communications and learning
@@ -34,4 +35,4 @@ Please feel free to contact me for anything.
 - [Google Scholar](https://scholar.google.ca/citations?user=_4mKHpcAAAAJ&hl=en)
 - [ResearchGate](https://www.researchgate.net/profile/Omar_Alhussein)
 
-![Omar Alhussein](images/omar3m.jpg)
+
