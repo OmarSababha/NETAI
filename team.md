@@ -13,7 +13,9 @@ nav_order: 2
 Assistant Professor at Khalifa University, Abu Dhabi, UAE
 
 I am currently an assistant professor with the computer science department at Khalifa University, United Arab Emirates. Prior to joining Khalifa University, I have worked as a senior research engineer with the advanced networking team at Huawei Technologies Canada, Ottawa, Canada, from 2020 to 2023. 
+
 I have received my Ph.D. degree with the [BBCR lab](https://uwaterloo.ca/broadband-communications-research-lab/) at the University of Waterloo under the supervision of Prof. [Weihua Zhuang](https://bbcr.uwaterloo.ca/~wzhuang/). My [thesis](research_phd.html) focuses on the orchestration and provisioning of network function virtualization enabled multicast services. 
+
 I have received my MASc degree from Simon Fraser University under the supervision of Prof. [Jie Liang](https://www.sfu.ca/~jiel/) and Prof. [Sami Muhaidat](https://sites.google.com/view/muhaidat/home?authuser=0). My [thesis](research_masc.html) is on the performance analysis of generalized and composite wireless fading channels through the use of mixture distributions.
 
 Please feel free to contact me for anything.
@@ -38,8 +40,8 @@ University B -->
 ## Postdoctoral Researchers
 
 ![Dr. Ismail Lotfi](images/ismail_lotfi_profile.png){: style="width: 150px;"}
-**Dr. John Doe**  
-Thesis: Exploring AI in Network Optimization
+**Dr. Ismail Lotfi**  
+Working on goal-oriented networks
 
 
 ## PhD Students
@@ -47,10 +49,12 @@ Thesis: Exploring AI in Network Optimization
 ![Nouf Alabbasi](images/Nouf_alabbasi_profile.png){: style="width: 150px;"}
 **Nouf Alabbasi**  
 Ph.D. Student
+Investigating LLM for network operations and management
 
 ![Omar Erak](images/omar_erak_profile.png){: style="width: 150px;"}
 **Sara Khan**  
-M.Sc. Student
+Ph.D. Student
+Investigating goal-oriented networks
 
 <!-- ## Undergraduate Associates/Interns -->
 
