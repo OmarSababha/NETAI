@@ -40,21 +40,24 @@ University B -->
 ## Postdoctoral Researchers
 
 ![Dr. Ismail Lotfi](images/ismail_lotfi_profile.png){: style="width: 150px;"}
+
 **Dr. Ismail Lotfi**  
-Working on goal-oriented networks
+goal-oriented networks
 
 
 ## PhD Students
 
 ![Nouf Alabbasi](images/Nouf_alabbasi_profile.png){: style="width: 150px;"}
+
 **Nouf Alabbasi**  
 Ph.D. Student
-Investigating LLM for network operations and management
+LLM for network operations and management
 
 ![Omar Erak](images/omar_erak_profile.png){: style="width: 150px;"}
+
 **Sara Khan**  
 Ph.D. Student
-Investigating goal-oriented networks
+goal-oriented networks
 
 <!-- ## Undergraduate Associates/Interns -->
 
