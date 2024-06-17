@@ -9,8 +9,6 @@ aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 
-
-
 # Just the Docs settings
 just_the_docs:
   search_enabled: true
@@ -21,7 +19,7 @@ just_the_docs:
   nav_order: 
     - Home
     - Team
-    - Research
+    # - Research
     - Publications
     - Patents
 
