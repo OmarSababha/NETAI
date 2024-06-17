@@ -2,7 +2,7 @@ title: NetAI Research Group
 description: NetAI Research Group led by Dr. Omar Alhussein
 theme: just-the-docs
 
-url: https://omarsababha.github.io/website/
+url: https://omarsababha.github.io/NETAI/
 
 
 aux_links:
@@ -19,7 +19,6 @@ just_the_docs:
   nav_order: 
     - Home
     - Team
-    - Research
     - Publications
     - Patents
 
