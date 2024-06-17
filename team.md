@@ -8,10 +8,14 @@ nav_order: 2
 
 ## Team Lead
 <div style="display: flex; align-items: flex-start;">
-  <img src="images/omar3m.jpg" alt="Omar Alhussein" style="width: 150px; margin-right: 20px;">
+  <div style="margin-right: 20px; text-align: center;">
+    <img src="images/omar3m.jpg" alt="Omar Alhussein" style="width: 150px;">
+    <div>
+      <strong>Omar Alhussein</strong><br>
+      Assistant Professor at Khalifa University, Abu Dhabi, UAE
+    </div>
+  </div>
   <div>
-    <strong>Omar Alhussein</strong><br>
-    Assistant Professor at Khalifa University, Abu Dhabi, UAE<br><br>
     I am currently an assistant professor with the computer science department at Khalifa University, United Arab Emirates. Prior to joining Khalifa University, I have worked as a senior research engineer with the advanced networking team at Huawei Technologies Canada, Ottawa, Canada, from 2020 to 2023.<br><br>
     I have received my Ph.D. degree with the <a href="https://uwaterloo.ca/broadband-communications-research-lab/">BBCR lab</a> at the University of Waterloo under the supervision of Prof. <a href="https://bbcr.uwaterloo.ca/~wzhuang/">Weihua Zhuang</a>. My <a href="research_phd.html">thesis</a> focuses on the orchestration and provisioning of network function virtualization enabled multicast services.<br><br>
     I have received my MASc degree from Simon Fraser University under the supervision of Prof. <a href="https://www.sfu.ca/~jiel/">Jie Liang</a> and Prof. <a href="https://sites.google.com/view/muhaidat/home?authuser=0">Sami Muhaidat</a>. My <a href="research_masc.html">thesis</a> is on the performance analysis of generalized and composite wireless fading channels through the use of mixture distributions.<br><br>
