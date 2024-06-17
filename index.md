@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 # Welcome to KU-NetAI Research Group
-<p style="font-size: small; margin-top: -15px;">led by Dr. Omar Alhussein</p>
+<p style="font-size: medium; margin-top: -15px;">led by Dr. Omar Alhussein</p>
 
 ##  Research Interests
 - Network intelligence, protocol design, Semantic communications and learning
