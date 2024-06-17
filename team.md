@@ -59,14 +59,12 @@ goal-oriented networks
 
 ![Nouf Alabbasi](images/Nouf_alabbasi_profile.png){: style="width: 150px;"}
 
-**Nouf Alabbasi**  
-Ph.D. Student
+**Nouf Alabbasi**, Ph.D. Student
 LLM for network operations and management
 
 ![Omar Erak](images/omar_erak_profile.png){: style="width: 150px;"}
 
-**Omar Erak**  
-Ph.D. Student
+**Omar Erak** , Ph.D. Student
 goal-oriented networks
 
 <!-- ## Undergraduate Associates/Interns -->
