@@ -19,6 +19,12 @@ nav_order: 1
 
 - **Accepted Paper**: Our latest paper on [LLM-based curriculum design for mobile networks](https://arxiv.org/abs/2405.18039v1) has been accepted to Proc. IEEE/CIC ICCC.
 
+- **New Intern**: Welcome to Hatim Lucman, who will join for a summer internship. His work will revolve around mobile core research and development
+
+- **New Associate**: Welcome to Amr Hussien (undergraduate student @KU). Amr has strong experience in LLM development and he will join the team on research on LLM for telecom.
+
+
+
 <!-- 
 
 I am an Assistant Professor at Khalifa University, Abu Dhabi, United Arab Emirates. From 2020 to 2023, I worked as a senior research engineer with Huawei Ottawa Research and Development Centre.
@@ -30,7 +36,7 @@ My MASc was obtained from Simon Fraser University under the supervision of Prof.
 Please feel free to contact me for anything.
  -->
 
- 
+
 <!-- ## Connect
 
 - Email: [oalhusse@gmail.com](mailto:oalhusse@gmail.com)
