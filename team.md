@@ -42,21 +42,15 @@ I have received my MASc degree from Simon Fraser University under the supervisio
  -->
 
 ## Collaborators
-<div class="contributor-grid">
-  <img src="images/people/collaborators/merouane_debbah_profile.jpeg" alt="Contributor 1">
-  <img src="images/people/collaborators/sami_muhaidat_profile.jpeg" alt="Contributor 2">
+
+#### Thank you to the contributors of NetAI Research Group!
+
+<ul class="contributor-grid">
+  <li><a href="#"><img src="images/people/collaborators/merouane_debbah_profile.jpeg" alt="Contributor 1"></a></li>
+  <li><a href="#"><img src="images/people/collaborators/sami_muhaidat_profile.jpeg" alt="Contributor 2"></a></li>
+  <li><a href="#"><img src="images/people/collaborators/sami_muhaidat_profile.jpeg" alt="Contributor 3"></a></li>
   <!-- Add more contributor images here -->
-</div>
-
-
-## collabs
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| [Nouf Alabbasi](images/Nouf_alabbasi_profile.png){: style="width: 10px;"}          | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
+</ul>
 
 
 ## Postdoctoral Researchers
