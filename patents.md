@@ -9,8 +9,8 @@ nav_order: 5
 ## List of Patents
 
 1. **Communication-efficient training for wireless split learning based network functions**  
-   *O. Alhussein, A. Akhavain*  
-   Filing process.
+   *O. Alhussein, A. Akhavain*
+   United States Patent Application #, 2023.
 
 2. **Adaptive encoding and decoding of information for network functions**  
    *O. Alhussein, M. Bhatti, and A. Akhavain*  
