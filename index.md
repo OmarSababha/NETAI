@@ -22,10 +22,11 @@ nav_order: 1
 ## News
 
 ### June 2024
+- **accepted paper**: Our latest paper on [LLM-based curriculum design for mobile networks](https://arxiv.org/abs/2405.18039v1) has been accepted to Proc. IEEE/CIC ICCC. [Code available](https://github.com/OmarErak/LLM-CL){: .btn }
+
 - **submitted paper**: We have submitted a vision magazine manuscript on [active machine learning for 6G networks](https://arxiv.org/abs/2406.03630). [Code available](https://github.com/OmarSababha/active_ML){: .btn }
 
-
-- **accepted paper**: Our latest paper on [LLM-based curriculum design for mobile networks](https://arxiv.org/abs/2405.18039v1) has been accepted to Proc. IEEE/CIC ICCC. [Code available](https://github.com/OmarErak/LLM-CL){: .btn }
+- **research leave**: I will be on a research leave to Simon Fraser University, Canada, for Summer 2024. Thanks to Dr. [Cheng Li](https://www.sfu.ca/engineering/faculty-and-staff/faculty/cheng_li.html) for hosting. Looking forward to fruitful collaborations.
 
 - **new intern**: Welcome to [Hatim Lucman](https://www.linkedin.com/in/hatim-lucman-899527286/), who will join for a summer internship with the [KU-6GRC](https://www.ku.ac.ae/6grc). His work will revolve around mobile core research and development
 
