@@ -6,7 +6,7 @@ nav_order: 6
 
 # Useful Resources
 
-### Recreation
+### We are not alone: Recreation
 [Piled Higher and Deeper (PhD Comics)](http://phdcomics.com/)
 
 ### Research Tools
