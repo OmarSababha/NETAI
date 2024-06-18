@@ -49,6 +49,15 @@ I have received my MASc degree from Simon Fraser University under the supervisio
 </div>
 
 
+## collabs
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| [Nouf Alabbasi](images/Nouf_alabbasi_profile.png){: style="width: 10px;"}          | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+
 
 ## Postdoctoral Researchers
 
