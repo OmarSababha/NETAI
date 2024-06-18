@@ -41,22 +41,19 @@ I have received my MASc degree from Simon Fraser University under the supervisio
 **Prof. Sami Muhaidat**, Professor, Acting Associate Dean of Research, Deputy Director of the <a href="https://www.ku.ac.ae/6grc">KU-6GRC</a>
  -->
 
-## Collaborators
-
-#### Thank you to the contributors of NetAI Research Group!
-
+<!-- ## Collaborators
 
 ![merouane debbah](images/people/collaborators/merouane_debbah_profile.jpeg){: style="width: 30px;"} ![sami muhaidat](images/people/collaborators/sami_muhaidat_profile.jpeg){: style="width: 30px;"}
 
-
+ -->
 ## Collaborators
 
 #### Thank you to the contributors of NetAI Research Group!
 
 <p align="center">
-  <img alt="Light" src="images/people/collaborators/merouane_debbah_profile.jpeg" width="45%">
+  <img alt="Light" src="images/people/collaborators/merouane_debbah_profile.jpeg" width="10%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Light" src="images/people/collaborators/merouane_debbah_profile.jpeg" width="45%">
+  <img alt="Light" src="images/people/collaborators/sami_muhaidat_profile.jpeg" width="10%">
 </p>
 
 
@@ -71,9 +68,7 @@ Goal-oriented networks
 
 ## PhD Students
 
-![Nouf Alabbasi](images/Nouf_alabbasi_profile.png){: style="width: 150px;"}
-
-**Nouf Alabbasi**, co-supervised with Prof. <a href="https://www.ku.ac.ae/college-people/merouane-debbah"> Merouane Debbah </a> and Prof. <a href="https://www.ku.ac.ae/college-people/sami-muhaidat"> Sami Muhaidat</a>
+![Nouf Alabbasi](images/Nouf_alabbasi_profile.png){: style="width: 150px;"} **Nouf Alabbasi**, co-supervised with Prof. <a href="https://www.ku.ac.ae/college-people/merouane-debbah"> Merouane Debbah </a> and Prof. <a href="https://www.ku.ac.ae/college-people/sami-muhaidat"> Sami Muhaidat</a>
 
 LLM for network operations and management
 
