@@ -17,6 +17,12 @@ I am currently an assistant professor with the computer science department at Kh
 I have received my Ph.D. degree with the <a href="https://uwaterloo.ca/broadband-communications-research-lab/">BBCR lab</a> at the University of Waterloo under the supervision of Prof. <a href="https://bbcr.uwaterloo.ca/~wzhuang/">Weihua Zhuang</a>. My <a href="research_phd.html">thesis</a> focuses on the orchestration and provisioning of network function virtualization enabled multicast services.<br><br>
 I have received my MASc degree from Simon Fraser University under the supervision of Prof. <a href="https://www.sfu.ca/~jiel/">Jie Liang</a> and Prof. <a href="https://sites.google.com/view/muhaidat/home?authuser=0">Sami Muhaidat</a>. My <a href="research_masc.html">thesis</a> is on the performance analysis of generalized and composite wireless fading channels through the use of mixture distributions.<br><br>
 
+### Connect
+- Email: [omar.alhussein@ku.ac.ae](mailto:omar.alhussein@ku.ac.ae)
+- [Google Scholar](https://scholar.google.ca/citations?user=_4mKHpcAAAAJ&hl=en)
+- [ResearchGate](https://www.researchgate.net/profile/Omar_Alhussein) -->
+
+
 <!-- 
 ## Collaborators
 
