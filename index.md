@@ -15,9 +15,9 @@ nav_order: 1
 <p style="font-size: medium; margin-top: -15px;">led by Dr. Omar Alhussein</p>
 
 ##  Research Interests
-- Network intelligence, protocol design, Semantic communications and learning
+- Network intelligence, protocol design, semantic communications and learning
 - Large-language models for the network, distributed learning, information-bottleneck theory
-- Explainable and Responsible AI
+- Explainable and responsible AI
 
 ## News
 
