@@ -62,7 +62,7 @@ Goal-oriented networks
 
 ![Nouf Alabbasi](images/Nouf_alabbasi_profile.png){: style="width: 150px;"}
 
-**Nouf Alabbasi**, co-supervised with Prof. Merouane Debbah and Prof. Sami Muhaidat
+**Nouf Alabbasi**, co-supervised with Prof. <a href="https://www.ku.ac.ae/college-people/merouane-debbah"> Merouane Debbah </a> and Prof. <a href="https://www.ku.ac.ae/college-people/sami-muhaidat"> Sami Muhaidat</a>
 
 LLM for network operations and management
 
