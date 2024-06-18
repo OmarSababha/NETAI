@@ -11,7 +11,7 @@ nav_order: 1
 
 <meta name="google-site-verification" content="JTYMP4QvfeA_ey_V0Y4VKC-jxEP4XrDuqlYQw9baC5s" />
 
-# Welcome to KU-NetAI Research Group
+# Welcome to NetAI Research Group
 <p style="font-size: medium; margin-top: -15px;">led by Dr. Omar Alhussein</p>
 
 ##  Research Interests
