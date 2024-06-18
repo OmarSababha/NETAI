@@ -58,6 +58,7 @@ I have received my MASc degree from Simon Fraser University under the supervisio
 ![Dr. Ismail Lotfi](images/ismail_lotfi_profile.png){: style="width: 150px;"}
 
 **Dr. Ismail Lotfi**, PhD from Nanyang Technological University
+
 To work on goal-oriented networks
 
 
