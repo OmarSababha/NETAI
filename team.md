@@ -48,12 +48,14 @@ I have received my MASc degree from Simon Fraser University under the supervisio
  -->
 ## Collaborators
 
-#### Thank you to the contributors of NetAI Research Group!
-
 <p align="center">
-  <img alt="Light" src="images/people/collaborators/merouane_debbah_profile.jpeg" width="10%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Light" src="images/people/collaborators/sami_muhaidat_profile.jpeg" width="10%">
+  <a href="https://www.ku.ac.ae/college-people/merouane-debbah">
+    <img alt="Light" src="images/people/collaborators/merouane_debbah_profile.jpeg" width="20%">
+  </a>
+&nbsp; &nbsp;
+  <a href="https://www.ku.ac.ae/college-people/sami-muhaidat">
+  <img alt="Light" src="images/people/collaborators/sami_muhaidat_profile.jpeg" width="20%">
+  </a>
 </p>
 
 
@@ -68,7 +70,9 @@ Goal-oriented networks
 
 ## PhD Students
 
-![Nouf Alabbasi](images/Nouf_alabbasi_profile.png){: style="width: 150px;"} **Nouf Alabbasi**, co-supervised with Prof. <a href="https://www.ku.ac.ae/college-people/merouane-debbah"> Merouane Debbah </a> and Prof. <a href="https://www.ku.ac.ae/college-people/sami-muhaidat"> Sami Muhaidat</a>
+![Nouf Alabbasi](images/Nouf_alabbasi_profile.png){: style="width: 150px;"} 
+
+**Nouf Alabbasi**, co-supervised with Prof. <a href="https://www.ku.ac.ae/college-people/merouane-debbah"> Merouane Debbah </a> and Prof. <a href="https://www.ku.ac.ae/college-people/sami-muhaidat"> Sami Muhaidat</a>
 
 LLM for network operations and management
 
