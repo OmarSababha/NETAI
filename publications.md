@@ -5,6 +5,8 @@ nav_order: 4
 ---
 
 # Publications
+papers and codes available 
+{: .label .label-purple }
 
 21. **Active ML for 6G: Towards Efficient Data Generation, Acquisition, and Annotation**  
    *O. Alhussein, N. Zhang, S. Muhaidat, and W. Zhuang*  

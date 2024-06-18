@@ -57,23 +57,23 @@ I have received my MASc degree from Simon Fraser University under the supervisio
 
 ![Dr. Ismail Lotfi](images/ismail_lotfi_profile.png){: style="width: 150px;"}
 
-**Dr. Ismail Lotfi**  
-Goal-oriented networks
+**Dr. Ismail Lotfi**, PhD from Nanyang Technological University
+To work on goal-oriented networks
 
 
 ## PhD Students
 
 ![Nouf Alabbasi](images/Nouf_alabbasi_profile.png){: style="width: 150px;"} 
 
-**Nouf Alabbasi**, co-supervised with Prof. <a href="https://www.ku.ac.ae/college-people/merouane-debbah"> Merouane Debbah </a> and Prof. <a href="https://www.ku.ac.ae/college-people/sami-muhaidat"> Sami Muhaidat</a>
+**Nouf Alabbasi**, BSc from NYU-AD, co-supervision with Prof. <a href="https://www.ku.ac.ae/college-people/merouane-debbah"> Merouane Debbah </a> and Prof. <a href="https://www.ku.ac.ae/college-people/sami-muhaidat"> Sami Muhaidat</a>
 
-LLM for network operations and management
+To work on LLM for network operations and management
 
 ![Omar Erak](images/omar_erak_profile.png){: style="width: 150px;"}
 
-<a href="https://www.ku.ac.ae/college-people/omar-erak"> **Omar Erak** </a>, co-supervised with Prof. <a href="https://www.ku.ac.ae/college-people/merouane-debbah"> Merouane Debbah </a> and Prof. <a href="https://www.ku.ac.ae/college-people/sami-muhaidat"> Sami Muhaidat</a>
+<a href="https://www.ku.ac.ae/college-people/omar-erak"> **Omar Erak** </a>, BSc from University of Calgary, co-supervision with Prof. <a href="https://www.ku.ac.ae/college-people/merouane-debbah"> Merouane Debbah </a> and Prof. <a href="https://www.ku.ac.ae/college-people/sami-muhaidat"> Sami Muhaidat</a>
 
-Goal-oriented networks
+To work on goal-oriented networks
 
 <!-- ## Undergraduate Associates/Interns -->
 
