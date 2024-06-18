@@ -4,19 +4,21 @@ title: Publications
 nav_order: 4
 ---
 
-# Publications 
-papers and codes available
+# Publications
+papers and codes available 
 {: .label .label-purple }
 
 21. **Active ML for 6G: Towards Efficient Data Generation, Acquisition, and Annotation**  
    *O. Alhussein, N. Zhang, S. Muhaidat, and W. Zhuang*  
    CoRR abs/2406.03630v1, June 2024.  
-   [Download pre-print](https://arxiv.org/abs/2406.03630) [Code available](https://github.com/OmarSababha/active_ML)
+   [Download pre-print](https://arxiv.org/abs/2406.03630) 
+   [Code available](https://github.com/OmarSababha/active_ML) 
 
 20. **Large language model-driven curriculum design for mobile networks**  
    *O. Erak, O. Alhussein, S. Naser, N. Alabbasi, D. Mi, and S. Muhaidat*  
    CoRR abs/2405.18039, May 2024. (*Accepted to Proc. IEEE/CIC ICCC*)
-   [Download paper](https://arxiv.org/abs/2405.18039v1) [Code available](https://github.com/OmarErak/LLM-CL)
+   [Download paper](https://arxiv.org/abs/2405.18039v1) 
+   [Code available](https://github.com/OmarErak/LLM-CL)
 
 19. **Dynamic Encoding and Decoding of Information for Split Learning in Mobile-Edge Computing: Leveraging Information Bottleneck Theory**  
    *O. Alhussein, M. Wei, A. Akhavain*  

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Publications
+title: Teaching
 nav_order: 8
 ---
 
