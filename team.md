@@ -49,6 +49,18 @@ I have received my MASc degree from Simon Fraser University under the supervisio
 ![merouane debbah](images/people/collaborators/merouane_debbah_profile.jpeg){: style="width: 30px;"} ![sami muhaidat](images/people/collaborators/sami_muhaidat_profile.jpeg){: style="width: 30px;"}
 
 
+## Collaborators
+
+#### Thank you to the contributors of NetAI Research Group!
+
+<p align="center">
+  <img alt="Light" src="images/people/collaborators/merouane_debbah_profile.jpeg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Light" src="images/people/collaborators/merouane_debbah_profile.jpeg" width="45%">
+</p>
+
+
+
 ## Postdoctoral Researchers
 
 ![Dr. Ismail Lotfi](images/ismail_lotfi_profile.png){: style="width: 150px;"}
