@@ -21,14 +21,14 @@ nav_order: 1
 ## News
 
 ### June 2024
-- **Submitted Paper**: We have submitted a vision magazine manuscript on [active machine learning for 6G networks](https://arxiv.org/abs/2406.03630). [Code available](https://github.com/OmarSababha/active_ML)
+- **submitted paper**: We have submitted a vision magazine manuscript on [active machine learning for 6G networks](https://arxiv.org/abs/2406.03630). [Code available](https://github.com/OmarSababha/active_ML)
 
 
-- **Accepted Paper**: Our latest paper on [LLM-based curriculum design for mobile networks](https://arxiv.org/abs/2405.18039v1) has been accepted to Proc. IEEE/CIC ICCC.
+- **accepted paper**: Our latest paper on [LLM-based curriculum design for mobile networks](https://arxiv.org/abs/2405.18039v1) has been accepted to Proc. IEEE/CIC ICCC.
 
-- **New Intern**: Welcome to [Hatim Lucman](https://www.linkedin.com/in/hatim-lucman-899527286/), who will join for a summer internship with the [KU-6GRC](https://www.ku.ac.ae/6grc). His work will revolve around mobile core research and development
+- **new intern**: Welcome to [Hatim Lucman](https://www.linkedin.com/in/hatim-lucman-899527286/), who will join for a summer internship with the [KU-6GRC](https://www.ku.ac.ae/6grc). His work will revolve around mobile core research and development
 
-- **New Associate**: Welcome to Amr Hussien (undergraduate student @KU). Amr has strong experience in LLM development and he will join the team on research on LLM for telecom.
+- **new undergraduate associate**: Welcome to Amr Hussien (undergraduate student @KU). Amr has strong experience in LLM development and he will join the team on research on LLM for telecom.
 
 
 
