@@ -20,7 +20,8 @@ I have received my MASc degree from Simon Fraser University under the supervisio
 ### Connect
 - Email: [omar.alhussein@ku.ac.ae](mailto:omar.alhussein@ku.ac.ae)
 - [Google Scholar](https://scholar.google.ca/citations?user=_4mKHpcAAAAJ&hl=en)
-- [ResearchGate](https://www.researchgate.net/profile/Omar_Alhussein) -->
+- [ResearchGate](https://www.researchgate.net/profile/Omar_Alhussein)
+- [KU Profile](https://www.ku.ac.ae/college-people/omar-alhussein)
 
 
 <!-- 
