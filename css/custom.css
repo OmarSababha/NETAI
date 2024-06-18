@@ -1,0 +1,12 @@
+.contributor-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.contributor-grid img {
+  width: 80px;
+  height: 80px;
+  margin: 5px;
+  border-radius: 50%;
+}

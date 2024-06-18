@@ -31,16 +31,23 @@ I am currently an assistant professor with the computer science department at Kh
 I have received my Ph.D. degree with the <a href="https://uwaterloo.ca/broadband-communications-research-lab/">BBCR lab</a> at the University of Waterloo under the supervision of Prof. <a href="https://bbcr.uwaterloo.ca/~wzhuang/">Weihua Zhuang</a>. My <a href="research_phd.html">thesis</a> focuses on the orchestration and provisioning of network function virtualization enabled multicast services.<br><br>
 I have received my MASc degree from Simon Fraser University under the supervision of Prof. <a href="https://www.sfu.ca/~jiel/">Jie Liang</a> and Prof. <a href="https://sites.google.com/view/muhaidat/home?authuser=0">Sami Muhaidat</a>. My <a href="research_masc.html">thesis</a> is on the performance analysis of generalized and composite wireless fading channels through the use of mixture distributions.<br><br>
 
+<!-- 
+## Collaborators
 
-<!-- ## Collaborators
+![Prof. Merouane Debbah](images/john_smith.jpg){: style="width: 150px;"}
+**Prof. Merouane Debbah**, Professor, Director of the <a href="https://www.ku.ac.ae/6grc">KU-6GRC</a>
 
-![Prof. Merouane](images/john_smith.jpg){: style="width: 150px;"}
-**Prof. John Smith**  
-University A
+![Prof. Sami Muhaidat](images/sami_m.jpg){: style="width: 150px;"}
+**Prof. Sami Muhaidat**, Professor, Acting Associate Dean of Research, Deputy Director of the <a href="https://www.ku.ac.ae/6grc">KU-6GRC</a>
+ -->
 
-![Prof. Emily White](images/emily_white.jpg){: style="width: 150px;"}
-**Prof. Emily White**  
-University B -->
+## Collaborators
+<div class="contributor-grid">
+  <img src="images/people/collaborators/merouane_debbah_profile.jpeg" alt="Contributor 1">
+  <img src="images/people/collaborators/sami_muhaidat_profile.jpeg" alt="Contributor 2">
+  <!-- Add more contributor images here -->
+</div>
+
 
 
 ## Postdoctoral Researchers
@@ -55,13 +62,13 @@ Goal-oriented networks
 
 ![Nouf Alabbasi](images/Nouf_alabbasi_profile.png){: style="width: 150px;"}
 
-**Nouf Alabbasi**, Ph.D. Student
+**Nouf Alabbasi**, co-supervised with Prof. Merouane Debbah and Prof. Sami Muhaidat
 
 LLM for network operations and management
 
 ![Omar Erak](images/omar_erak_profile.png){: style="width: 150px;"}
 
-**Omar Erak** , Ph.D. Student
+**Omar Erak** , co-supervised with Prof. <a href="https://www.ku.ac.ae/college-people/merouane-debbah"> Merouane Debbah </a> and Prof. <a href="https://www.ku.ac.ae/college-people/sami-muhaidat"> Sami Muhaidat</a>
 
 Goal-oriented networks
 

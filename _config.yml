@@ -22,3 +22,14 @@ just_the_docs:
     - Publications
     - Patents
 
+
+
+# Include custom CSS
+defaults:
+  -
+    scope:
+      path: ""
+      type: "page"
+    values:
+      css: "css/custom.css"
+
