@@ -23,12 +23,3 @@ just_the_docs:
     - Patents
 
 
-
-# Include custom CSS
-defaults:
-  -
-    scope:
-      path: ""
-      type: "page"
-    values:
-      css: "css/custom.css"
