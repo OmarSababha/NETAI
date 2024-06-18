@@ -4,6 +4,12 @@ title: Home
 nav_order: 1
 ---
 
+<!-- Banner Image -->
+<div style="text-align: center;">
+  <img src="images/banner_westcoast.jpg" alt="Banner Image" style="width: 100%; height: auto;">
+</div>
+
+
 # Welcome to KU-NetAI Research Group
 <p style="font-size: medium; margin-top: -15px;">led by Dr. Omar Alhussein</p>
 
