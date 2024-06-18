@@ -21,7 +21,7 @@ nav_order: 1
 ## News
 
 ### June 2024
-- **Submitted Paper**: We have submitted a vision magazine paper on [active machine learning for 6G networks](https://arxiv.org/abs/2406.03630). code available {: .label .label-purple }
+- **Submitted Paper**: We have submitted a vision magazine manuscript on [active machine learning for 6G networks](https://arxiv.org/abs/2406.03630). [Code available](https://github.com/OmarSababha/active_ML)
 
 
 - **Accepted Paper**: Our latest paper on [LLM-based curriculum design for mobile networks](https://arxiv.org/abs/2405.18039v1) has been accepted to Proc. IEEE/CIC ICCC.

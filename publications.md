@@ -11,17 +11,17 @@ nav_order: 4
 1. **Active ML for 6G: Towards Efficient Data Generation, Acquisition, and Annotation**  
    *O. Alhussein, N. Zhang, S. Muhaidat, and W. Zhuang*  
    CoRR abs/2406.03630v1, June 2024.  
-   [Download paper](https://arxiv.org/abs/2406.03630)
+   [Download pre-print](https://arxiv.org/abs/2406.03630) [Code available](https://github.com/OmarSababha/active_ML)
 
 2. **Large language model-driven curriculum design for mobile networks**  
    *O. Erak, O. Alhussein, S. Naser, N. Alabbasi, D. Mi, and S. Muhaidat*  
    CoRR abs/2405.18039, May 2024.  
-   [Download paper](https://arxiv.org/abs/2405.18039v1)
+   [Download paper](https://arxiv.org/abs/2405.18039v1) [Code available](https://github.com/OmarErak/LLM-CL)
 
 3. **Dynamic Encoding and Decoding of Information for Split Learning in Mobile-Edge Computing: Leveraging Information Bottleneck Theory**  
    *O. Alhussein, M. Wei, A. Akhavain*  
    In Proc. IEEE Globecom, 2023, pp. 1–6.  
-   [Download paper](files/publications/2023_paper_globecom_camera_v2.pdf)
+   [Download paper](files/publications/2023_paper_globecom_camera_v2.pdf) 
 
 4. **A holistic and proactive approach to forecasting cyber threats**  
    *Z. Almahmoud, PD. Yoo, O. Alhussein, I. Farhat, E. Damiani*  
