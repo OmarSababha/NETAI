@@ -4,6 +4,17 @@ title: Home
 nav_order: 1
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-E09K8XMPK5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-E09K8XMPK5');
+</script>
+
+
 <!-- Banner Image -->
 <div style="text-align: center;">
   <img src="images/banner_westcoast.jpg" alt="Banner Image" style="width: 100%; height: auto;">
