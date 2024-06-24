@@ -27,7 +27,7 @@ papers and codes available
 20. **Large language model-driven curriculum design for mobile networks**  
    *O. Erak, O. Alhussein, S. Naser, N. Alabbasi, D. Mi, and S. Muhaidat*  
    CoRR abs/2405.18039, May 2024. (*Accepted to Proc. IEEE/CIC ICCC*)
-   [Download paper](https://arxiv.org/abs/2405.18039v1) 
+   [Download paper](https://arxiv.org/abs/2405.18039v2) 
    [Code available](https://github.com/OmarErak/LLM-CL)
 
 19. **Dynamic Encoding and Decoding of Information for Split Learning in Mobile-Edge Computing: Leveraging Information Bottleneck Theory**  
