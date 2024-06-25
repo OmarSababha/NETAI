@@ -18,9 +18,9 @@ nav_order: 4
 papers and codes available 
 {: .label .label-purple }
 
-22. **Layer-wise federated learning for mobile networks**
-    *M. Hosseini, O. Alhussein, A. Akhavain*
-    CoRR abs/xxx. [Download pre-print](#) 
+22. **Layer-wise federated learning for mobile networks**  
+   *M. Hosseini, O. Alhussein, A. Akhavain*  
+   CoRR abs/xxx. [Download pre-print](#)
 
 21. **Active ML for 6G: Towards Efficient Data Generation, Acquisition, and Annotation**  
    *O. Alhussein, N. Zhang, S. Muhaidat, and W. Zhuang*  
