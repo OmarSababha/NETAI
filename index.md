@@ -33,7 +33,7 @@ nav_order: 1
 ## News
 
 ### June 2024
-- **accepted paper**: Our latest paper on [LLM-based curriculum design for mobile networks](https://arxiv.org/abs/2405.18039v1) has been accepted to Proc. IEEE/CIC ICCC. [Code available](https://github.com/OmarErak/LLM-CL){: .btn }
+- **accepted paper**: Our latest paper on [LLM-based curriculum design for mobile networks](https://arxiv.org/abs/2405.18039v2) has been accepted to Proc. IEEE/CIC ICCC. [Code available](https://github.com/OmarErak/LLM-CL){: .btn }
 
 - **submitted paper**: We have submitted a vision magazine manuscript on [active machine learning for 6G networks](https://arxiv.org/abs/2406.03630). [Code available](https://github.com/OmarSababha/active_ML){: .btn }
 
