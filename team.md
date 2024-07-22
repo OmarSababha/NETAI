@@ -70,7 +70,7 @@ I have received my MASc degree from Simon Fraser University under the supervisio
 
 **Dr. Ismail Lotfi**, PhD from NTU, Singapore.
 
-To work on goal-oriented networks
+To work on goal-oriented networks and protocol learning
 
 
 ## PhD Students
@@ -85,13 +85,18 @@ To work on LLM for network operations and management
 
 <a href="https://www.ku.ac.ae/college-people/omar-erak"> **Omar Erak** </a>, BSc from University of Calgary. Co-supervision with Prof. <a href="https://www.ku.ac.ae/college-people/merouane-debbah"> Merouane Debbah </a> and Prof. <a href="https://www.ku.ac.ae/college-people/sami-muhaidat"> Sami Muhaidat</a>
 
-To work on goal-oriented networks
+To work on goal-oriented networks and protocol learning
 
 <!-- ## Undergraduate Associates/Interns -->
 
 ## Research Assistants and Interns
 
+![Henok Daniel](images/people/humanicon.jpg){: style="width: 150px;"} 
+
 **Henok Daniel**, Research Assistant, BSc from Khalifa University, UAE.
+
+![Hatim Lucman](images/people/hatim.jpeg){: style="width: 150px;"} 
+
 **Hatim Lucman**, Intern @ 6GRC, BSc student at Khalifa University, UAE.
 
 
