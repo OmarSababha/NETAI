@@ -77,7 +77,7 @@ To work on goal-oriented networks
 
 ![Nouf Alabbasi](images/Nouf_alabbasi_profile.png){: style="width: 150px;"} 
 
-**Nouf Alabbasi**, BSc from NYU, AD. Co-supervision with Prof. <a href="https://www.ku.ac.ae/college-people/merouane-debbah"> Merouane Debbah </a> and Prof. <a href="https://www.ku.ac.ae/college-people/sami-muhaidat"> Sami Muhaidat</a>
+**Nouf Alabbasi**, BSc from NYU, UAE. Co-supervision with Prof. <a href="https://www.ku.ac.ae/college-people/merouane-debbah"> Merouane Debbah </a> and Prof. <a href="https://www.ku.ac.ae/college-people/sami-muhaidat"> Sami Muhaidat</a>
 
 To work on LLM for network operations and management
 
@@ -88,6 +88,11 @@ To work on LLM for network operations and management
 To work on goal-oriented networks
 
 <!-- ## Undergraduate Associates/Interns -->
+
+## Research Assistants and Interns
+
+**Henok Daniel**, Research Assistant, BSc from Khalifa University, UAE.
+**Hatim Lucman**, Intern @ 6GRC, BSc student at Khalifa University, UAE.
 
 
 
