@@ -31,8 +31,12 @@ nav_order: 1
 - Explainable and responsible AI
 
 ## News
+
 ### July 2024
+- **call for papers**: Announcing Globecom 2024 workshop, [the ubiquitous network intelligence for next generation wireless networks (UNI)](files/call_for_papers/m14867-zhangpaper.pdf). Join us and consider submitting!
+
 - **patent granted**: [Method and apparatus for managing network traffic via uncertainty](https://patentimages.storage.googleapis.com/33/c1/41/2ff8f88ccf4847/US20230216811A1.pdf)
+
 
 ### June 2024
 - **accepted paper**: Our latest paper on [LLM-based curriculum design for mobile networks](https://arxiv.org/abs/2405.18039v2) has been accepted to Proc. IEEE/CIC ICCC. [Code available](https://github.com/OmarErak/LLM-CL){: .btn }
