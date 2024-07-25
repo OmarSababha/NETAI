@@ -36,7 +36,7 @@ nav_order: 5
 
 2. **[Method and Apparatus for Managing Network Traffic Via Uncertainty](https://patents.google.com/patent/US20230216811A1/en)**  
    *O. Alhussein, A. Akhavain*  
-   United States Patent Application 17/568,893, July 2022. @@Granted@@
+   United States Patent Application 17/568,893, July 2022. <span class="text-purple-000">(granted)</span>
    [Download PDF](files/patents/US20230216811A1.pdf)
 
 1. **[Methods, systems and computer program products for protecting a deep reinforcement learning agent](https://patentimages.storage.googleapis.com/58/d0/aa/a4e9930b2041b9/US20230185932A1.pdf)**  
