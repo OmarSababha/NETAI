@@ -16,9 +16,14 @@ nav_order: 8
 
 # Teaching
 
+1. **COSC794: Large-language models for Computing and Engineering (for MSc and PhD students)**
 
-1. **Computer Networks**  
+   *Spring 2025 (to be offered)*
+
+1. **Computer Networks**
+
    *Fall 2023, Spring 2024*
 
 2. **Data Science and AI**
+
     *Spring 2024*
