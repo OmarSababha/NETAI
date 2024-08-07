@@ -18,9 +18,17 @@ nav_order: 4
 papers and codes available 
 {: .label .label-purple }
 
-22. **Layer-wise federated learning for mobile networks**  
+24. **Layer-wise federated learning for mobile networks**  
    *M. Hosseini, O. Alhussein, A. Akhavain*  
    CoRR abs/xxx. [Download pre-print](#)
+
+23. **Reconfigurable Intelligent Surface-Aided Time Reversal Wireless Systems**
+    *S. Naser, O. Alhussein, L. Bariah, D. Mi, and S. Muhaidat*
+    in *Proc. IEEE/CIC ICCC*, 2024.
+
+22. **Performance Analysis of LoRa-Enabled Backscatter Communication**
+    *A. S. Ali, S. Naser, O. Alhussein, and S. Muhaidat*
+    in *Proc. IEEE/CIC ICCC*, 2024.
 
 21. **Active ML for 6G: Towards Efficient Data Generation, Acquisition, and Annotation**  
    *O. Alhussein, N. Zhang, S. Muhaidat, and W. Zhuang*  
