@@ -23,11 +23,11 @@ papers and codes available
    CoRR abs/xxx. [Download pre-print](#)
 
 23. **Reconfigurable Intelligent Surface-Aided Time Reversal Wireless Systems**
-    *S. Naser, O. Alhussein, L. Bariah, D. Mi, and S. Muhaidat*
+    *S. Naser, O. Alhussein, L. Bariah, D. Mi, and S. Muhaidat*  
     in *Proc. IEEE/CIC ICCC*, 2024.
 
 22. **Performance Analysis of LoRa-Enabled Backscatter Communication**
-    *A. S. Ali, S. Naser, O. Alhussein, and S. Muhaidat*
+    *A. S. Ali, S. Naser, O. Alhussein, and S. Muhaidat*  
     in *Proc. IEEE/CIC ICCC*, 2024.
 
 21. **Active ML for 6G: Towards Efficient Data Generation, Acquisition, and Annotation**  
