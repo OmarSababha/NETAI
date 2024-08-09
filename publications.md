@@ -22,19 +22,17 @@ papers and codes available
    *M. Hosseini, O. Alhussein, A. Akhavain*  
    CoRR abs/xxx. [Download pre-print](#)
 
-23. **Reconfigurable Intelligent Surface-Aided Time Reversal Wireless Systems**
 
-    *S. Naser, O. Alhussein, L. Bariah, D. Mi, and S. Muhaidat*  
+23. **Reconfigurable Intelligent Surface-Aided Time Reversal Wireless Systems**  
+   *S. Naser, O. Alhussein, L. Bariah, D. Mi, and S. Muhaidat*  
+   in *Proc. IEEE/CIC ICCC*, 2024.  
+   [Download pre-print](files/publications/a193_naser_final.pdf) 
 
-    in *Proc. IEEE/CIC ICCC*, 2024.
-    [Download pre-print](files/publications/a193_naser_final.pdf)
 
-22. **Performance Analysis of LoRa-Enabled Backscatter Communication**
-
-    *A. S. Ali, S. Naser, O. Alhussein, and S. Muhaidat*  
-
-    in *Proc. IEEE/CIC ICCC*, 2024.
-    [Download pre-print](files/publications/a198_ali_final.pdf)
+22. **Performance Analysis of LoRa-Enabled Backscatter Communication**  
+   *A. S. Ali, S. Naser, O. Alhussein, and S. Muhaidat*  
+   in *Proc. IEEE/CIC ICCC*, 2024.  
+   [Download paper](files/publications/a198_ali_final.pdf) 
 
 
 21. **Active ML for 6G: Towards Efficient Data Generation, Acquisition, and Annotation**  
@@ -51,7 +49,7 @@ papers and codes available
 
 19. **Dynamic Encoding and Decoding of Information for Split Learning in Mobile-Edge Computing: Leveraging Information Bottleneck Theory**  
    *O. Alhussein, M. Wei, A. Akhavain*  
-   In Proc. IEEE Globecom, 2023, pp. 1–6.  
+   in Proc. IEEE Globecom, 2023, pp. 1–6.  
    [Download paper](files/publications/2023_paper_globecom_camera_v2.pdf) 
 
 18. **A holistic and proactive approach to forecasting cyber threats**  
