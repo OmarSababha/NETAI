@@ -20,8 +20,8 @@ papers and codes available
 
 25. **Leveraging fine-tuned retrieval-augmented generation with long-context support: for 3GPP standards**  
    *O. Erak, N. Alabbasi, O. Alhussein, I. Lotfi, A. Hussein, S. Muhaidat, M. Debbah*
-    CoRR abs/2408.11775. [Download pre-print](https://arxiv.org/abs/2408.11775)
-
+    CoRR abs/2408.11775. [Download pre-print](https://arxiv.org/abs/2408.11775) 
+   [Code available](https://github.com/Nouf-Alabbasi/oKUmura_AI_Telecom_challenge) 
 
 24. **Layer-wise federated learning for mobile networks**  
    *M. Hosseini, O. Alhussein, A. Akhavain*  
