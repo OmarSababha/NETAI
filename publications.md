@@ -20,6 +20,7 @@ papers and codes available
 
 25. **Leveraging fine-tuned retrieval-augmented generation with long-context support: for 3GPP standards**  
    *O. Erak, N. Alabbasi, O. Alhussein, I. Lotfi, A. Hussein, S. Muhaidat, M. Debbah*
+   
    CoRR abs/2408.11775. [Download pre-print](https://arxiv.org/abs/2408.11775)
 
 
