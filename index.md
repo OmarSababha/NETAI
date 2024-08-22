@@ -32,7 +32,15 @@ nav_order: 1
 
 ## News
 
+<!-- ### August 2024 -->
+
+<!-- - **competition participation**: The team has participated  -->
+
 ### July 2024
+- **conference**: Dr. Omar Alhussein and Omar Erak attended Proc. IEEE/CIC ICCC in Hangzhou, China.
+
+- **Seminar**: Presenting seminar at SFU on native AI techniques for the network. 
+
 - **call for papers**: Announcing Globecom 2024 workshop, [the ubiquitous network intelligence for next generation wireless networks (UNI)](files/call_for_papers/m14867-zhangpaper.pdf). Join us and consider submitting!
 
 - **patent granted**: [Method and apparatus for managing network traffic via uncertainty](https://patentimages.storage.googleapis.com/33/c1/41/2ff8f88ccf4847/US20230216811A1.pdf)
