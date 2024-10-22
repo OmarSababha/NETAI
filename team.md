@@ -25,7 +25,7 @@ nav_order: 2
 **Dr. Omar Alhussein**, Assistant Professor
 
 I am currently an assistant professor with the computer science department at Khalifa University, United Arab Emirates, and a member of the <a href="https://www.ku.ac.ae/6grc">KU 6G Research Center (KU-6GRC)</a> under the native AI theme. Prior to joining Khalifa University, I have worked as a senior research engineer with the advanced networking team at Huawei Technologies Canada, Ottawa, Canada, from 2020 to 2023.<br><br>
-I have received my Ph.D. degree with the <a href="https://uwaterloo.ca/broadband-communications-research-lab/">BBCR lab</a> at the University of Waterloo under the supervision of Prof. <a href="https://bbcr.uwaterloo.ca/~wzhuang/">Weihua Zhuang</a>. My <a href="research_phd.html">thesis</a> focuses on the orchestration and provisioning of network function virtualization enabled multicast services.<br><br>
+I have received my Ph.D. degree with the <a href="https://uwaterloo.ca/broadband-communications-research-lab/">BBCR lab</a> at the University of Waterloo under the supervision of Prof. <a href="https://bbcr.uwaterloo.ca/~wzhuang/">Weihua Zhuang</a>. My <a href="research_phd.html">thesis</a> focuses on the orchestration and provisioning of network function virtualization-enabled multicast services.<br><br>
 I have received my MASc degree from Simon Fraser University under the supervision of Prof. <a href="https://www.sfu.ca/~jiel/">Jie Liang</a> and Prof. <a href="https://sites.google.com/view/muhaidat/home?authuser=0">Sami Muhaidat</a>. My <a href="research_masc.html">thesis</a> is on the performance analysis of generalized and composite wireless fading channels through the use of mixture distributions.<br><br>
 
 ### Connect
@@ -70,7 +70,7 @@ I have received my MASc degree from Simon Fraser University under the supervisio
 
 **Dr. Ismail Lotfi**, PhD from NTU, Singapore.
 
-To work on goal-oriented networks and protocol learning
+Working on strategic mechanism design with generative AI
 
 
 ## PhD Students
@@ -79,15 +79,19 @@ To work on goal-oriented networks and protocol learning
 
 **Nouf Alabbasi**, BSc from NYU, UAE.
 
-To work on LLM for network operations and management
+Working on LLM for network operations and management
 
 ![Omar Erak](images/omar_erak_profile.png){: style="width: 150px;"}
 
 <a href="https://www.ku.ac.ae/college-people/omar-erak"> **Omar Erak** </a>, BSc from University of Calgary.
 
-To work on goal-oriented networks and protocol learning
+Working on task-oriented networks and protocol learning
 
 <!-- ## Undergraduate Associates/Interns -->
+
+## MSc Students
+![Saoud Almansoori](images/people/humanicon.jpg){: style="width: 150px;"}
+**Saoud Almansoori**, MSc student, BSc from NYU-AD, UAE.
 
 ## Research Assistants and Interns
 
