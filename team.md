@@ -77,13 +77,13 @@ To work on goal-oriented networks and protocol learning
 
 ![Nouf Alabbasi](images/Nouf_alabbasi_profile.png){: style="width: 150px;"} 
 
-**Nouf Alabbasi**, BSc from NYU, UAE. Co-supervision with Prof. <a href="https://www.ku.ac.ae/college-people/merouane-debbah"> Merouane Debbah </a> and Prof. <a href="https://www.ku.ac.ae/college-people/sami-muhaidat"> Sami Muhaidat</a>
+**Nouf Alabbasi**, BSc from NYU, UAE.
 
 To work on LLM for network operations and management
 
 ![Omar Erak](images/omar_erak_profile.png){: style="width: 150px;"}
 
-<a href="https://www.ku.ac.ae/college-people/omar-erak"> **Omar Erak** </a>, BSc from University of Calgary. Co-supervision with Prof. <a href="https://www.ku.ac.ae/college-people/merouane-debbah"> Merouane Debbah </a> and Prof. <a href="https://www.ku.ac.ae/college-people/sami-muhaidat"> Sami Muhaidat</a>
+<a href="https://www.ku.ac.ae/college-people/omar-erak"> **Omar Erak** </a>, BSc from University of Calgary.
 
 To work on goal-oriented networks and protocol learning
 
