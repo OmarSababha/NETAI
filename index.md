@@ -25,10 +25,13 @@ nav_order: 1
 # Welcome to NetAI Research Group
 <p style="font-size: medium; margin-top: -15px;">led by Dr. Omar Alhussein</p>
 
+**Accepting PhD applications!**
+
 ##  Research Interests
 - Network intelligence, protocol design, semantic communications and learning
 - Large-language models for the network, distributed learning, information-bottleneck theory
 - Explainable and responsible AI
+- Quantum machine learning
 
 ## News
 
