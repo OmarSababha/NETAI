@@ -18,6 +18,18 @@ nav_order: 4
 papers and codes available 
 {: .label .label-purple }
 
+
+27. **Contrastive Learning and Adversarial Disentanglement for Privacy-Preserving Task-Oriented Semantic Communications**  
+   *O. Erak, O. Alhussein, W. Tong*
+    CoRR abs/2410.22784. [Download pre-print](https://arxiv.org/abs/2410.22784) 
+   [Code available](https://github.com/omarerak/clad)
+
+26. **TeleOracle: Fine-Tuned Retrieval-Augmented Generation with Long-Context Support for Network**  
+   *N. Alabbasi, O. Erak,  O. Alhussein, I. Lotfi, S. Muhaidat, M. Debbah*
+    CoRR abs/2411.02617. [Download pre-print](https://arxiv.org/abs/2411.02617) 
+   [Code available](https://github.com/Nouf-Alabbasi/oKUmura_AI_Telecom_challenge)
+
+
 25. **Leveraging fine-tuned retrieval-augmented generation with long-context support: for 3GPP standards**  
    *O. Erak, N. Alabbasi, O. Alhussein, I. Lotfi, A. Hussein, S. Muhaidat, M. Debbah*
     CoRR abs/2408.11775. [Download pre-print](https://arxiv.org/abs/2408.11775) 
