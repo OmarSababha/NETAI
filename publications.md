@@ -21,8 +21,7 @@ papers and codes available
 
 27. **Contrastive Learning and Adversarial Disentanglement for Privacy-Preserving Task-Oriented Semantic Communications**  
    *O. Erak, O. Alhussein, W. Tong*
-    CoRR abs/2410.22784. [Download pre-print](https://arxiv.org/abs/2410.22784) 
-   [Code available](https://github.com/omarerak/clad)
+    CoRR abs/2410.22784. [Download pre-print](https://arxiv.org/abs/2410.22784) [Code available](https://github.com/omarerak/clad)
 
 26. **TeleOracle: Fine-Tuned Retrieval-Augmented Generation with Long-Context Support for Network**  
    *N. Alabbasi, O. Erak,  O. Alhussein, I. Lotfi, S. Muhaidat, M. Debbah*
