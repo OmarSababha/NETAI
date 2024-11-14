@@ -72,6 +72,10 @@ I have received my MASc degree from Simon Fraser University under the supervisio
 
 Working on strategic mechanism design with generative AI
 
+![Dr. Yuzhi Yang](images/yuzhi_yang.gif){: style="width: 150px;"}
+
+**Dr. Yuzhi Yang**, PhD Zhejiang University, China.
+
 
 ## PhD Students
 
