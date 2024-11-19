@@ -19,15 +19,20 @@ papers and codes available
 {: .label .label-purple }
 
 
-27. **Contrastive Learning and Adversarial Disentanglement for Privacy-Preserving Task-Oriented Semantic Communications**  
+
+28. **Contrastive Learning and Adversarial Disentanglement for Privacy-Preserving Task-Oriented Semantic Communications**  
    *O. Erak, O. Alhussein, W. Tong*
     CoRR abs/2410.22784. [Download pre-print](https://arxiv.org/abs/2410.22784) [Code available](https://github.com/omarerak/clad)
 
-26. **TeleOracle: Fine-Tuned Retrieval-Augmented Generation with Long-Context Support for Network**  
+27. **TeleOracle: Fine-Tuned Retrieval-Augmented Generation with Long-Context Support for Network**  
    *N. Alabbasi, O. Erak,  O. Alhussein, I. Lotfi, S. Muhaidat, M. Debbah*
     CoRR abs/2411.02617. [Download pre-print](https://arxiv.org/abs/2411.02617) 
    [Code available](https://github.com/Nouf-Alabbasi/oKUmura_AI_Telecom_challenge)
 
+26. **Encoder decoder-based Virtual Physically Unclonable Function for Internet of Things device authentication using split-learning**  
+   *R. Khan, H. B. Eldeeb,  B. Mefgouda, O. Alhussein, H. Saleh, S. Muhaidat*
+    CoRR abs/2411.02617. [Download pre-print](https://arxiv.org/abs/2411.02617) 
+   [Code available](https://github.com/Nouf-Alabbasi/oKUmura_AI_Telecom_challenge)
 
 25. **Leveraging fine-tuned retrieval-augmented generation with long-context support: for 3GPP standards**  
    *O. Erak, N. Alabbasi, O. Alhussein, I. Lotfi, A. Hussein, S. Muhaidat, M. Debbah*
