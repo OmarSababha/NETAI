@@ -16,14 +16,14 @@ nav_order: 8
 
 # Teaching
 
-1. **COSC794: Large-language models for Computing and Engineering (for MSc and PhD students)**
+1. **COSC794: Quantum Machine Learning (for PhD students)**
 
-   *Spring 2025 (to be offered)*
+   *Spring 2025*
 
-1. **Computer Networks**
+1. **CCEN 365: Computer Networks**
 
    *Fall 2023, Spring 2024*
 
-2. **Data Science and AI**
+2. **COSC 202: Data Science and AI**
 
-    *Spring 2024*
+    *Spring 2024, Fall 2024, Spring 2025*
