@@ -31,7 +31,7 @@ nav_order: 1
 - information-bottleneck theory, distributed learning
 - Explainable and resilient AI
 - Quantum machine learning
-- Network intelligence, protocol design, semantic communications and learning
+- Network intelligence, network optimization
 
 ## News
 
