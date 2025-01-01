@@ -28,10 +28,10 @@ nav_order: 1
 **Accepting PhD applications!**
 
 ##  Research Interests
-- Network intelligence, protocol design, semantic communications and learning
-- Large-language models for the network, distributed learning, information-bottleneck theory
-- Explainable and responsible AI
+- information-bottleneck theory, distributed learning
+- Explainable and resilient AI
 - Quantum machine learning
+- Network intelligence, protocol design, semantic communications and learning
 
 ## News
 
