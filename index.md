@@ -37,7 +37,7 @@ nav_order: 1
 
 <!-- ### Dec 2024 -->
 - **Jan 2024**: Organized a [quantum winter school](https://kuquantumschool.com/) at Khalifa University, hosting speakers from the region and around the world.
-- **Dec 2024**: NETAI landed third place in the ITU/Huawei organized competition [on specializing large-language models for telecom domain](https://zindi.africa/competitions/specializing-large-language-models-for-telecom-networks)
+- **Dec 2024**: NETAI landed third place in the ITU/Huawei organized competition [on specializing large-language models for telecom domain](https://zindi.africa/competitions/specializing-large-language-models-for-telecom-networks). Check out the paper [Download pre-print](https://arxiv.org/abs/2411.02617)
 
 ### July 2024
 - **conference**: Dr. Omar Alhussein and Omar Erak attended Proc. IEEE/CIC ICCC in Hangzhou, China.
