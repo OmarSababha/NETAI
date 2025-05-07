@@ -36,7 +36,7 @@ CoRR abs/6416759. [Download pre-print](files/publications/quantum_MLD_conference
 
 27. **TeleOracle: Fine-Tuned Retrieval-Augmented Generation with Long-Context Support for Network**  
    *N. Alabbasi, O. Erak,  O. Alhussein, I. Lotfi, S. Muhaidat, M. Debbah*
-    CoRR abs/2411.02617. [Download pre-print](https://arxiv.org/abs/2411.02617) 
+    CoRR abs/2411.02617. (accepted to IEEE J. IoT) [Download pre-print](https://arxiv.org/abs/2411.02617) 
    [Code available](https://github.com/Nouf-Alabbasi/oKUmura_AI_Telecom_challenge)
 
 26. **Encoder decoder-based Virtual Physically Unclonable Function for Internet of Things device authentication using split-learning**  
