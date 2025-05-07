@@ -21,14 +21,12 @@ papers and codes available
 
 29. **Hybrid Quantum-Classical Maximum-Likelihood Detection via Grover-based Adaptive Search for RIS-assisted Broadband Wireless Systems**  
    *M. Tariq, R. Abdelrahim, O. Alhussein, S. Muhaidat*
-
 CoRR abs/6416759. [Download pre-print](files/publications/quantum_MLD_conference.pdf)
 
 
 29. **Enhanced Open-Source NWDAF for Event-Driven Analytics in 5G Networks**  
    *H. Kahsay, O. Alhussein, J. Liang, C. Li, E. Damiani*
-
-    to appear in IFIP Networking Workshops. [Download pre-print](files/publications/NWDAF_IFIP.pdf) [Code available](https://github.com/HenokDanielbfg/5g-testbed-conference)
+to appear in IFIP Networking Workshops. [Download pre-print](files/publications/NWDAF_IFIP.pdf) [Code available](https://github.com/HenokDanielbfg/5g-testbed-conference)
 
 28. **Contrastive Learning and Adversarial Disentanglement for Privacy-Preserving Task-Oriented Semantic Communications**  
    *O. Erak, O. Alhussein, W. Tong*
