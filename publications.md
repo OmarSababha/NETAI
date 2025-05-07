@@ -18,7 +18,9 @@ nav_order: 4
 papers and codes available 
 {: .label .label-purple }
 
-
+29. **Enhanced Open-Source NWDAF for Event-Driven Analytics in 5G Networks**  
+   *H. Kahsay, O. Alhussein, J. Liang, C. Li, E. Damiani*
+    to appear in IFIP Networking Workshops. [Download pre-print](files/publications/NWDAF_IFIP.pdf) [Code available](https://github.com/HenokDanielbfg/5g-testbed-conference)
 
 28. **Contrastive Learning and Adversarial Disentanglement for Privacy-Preserving Task-Oriented Semantic Communications**  
    *O. Erak, O. Alhussein, W. Tong*
