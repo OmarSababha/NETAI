@@ -21,7 +21,7 @@ papers and codes available
 
 29. **Hybrid Quantum-Classical Maximum-Likelihood Detection via Grover-based Adaptive Search for RIS-assisted Broadband Wireless Systems**  
    *M. Tariq, R. Abdelrahim, O. Alhussein, S. Muhaidat*
-    CoRR abs/6416759. [Download pre-print](files/publications/quantum_MLD_conference.pdf)
+    CoRR abs/2505.03914. [Download pre-print](files/publications/quantum_MLD_conference.pdf)
 
 
 29. **Enhanced Open-Source NWDAF for Event-Driven Analytics in 5G Networks**  
