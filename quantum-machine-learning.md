@@ -1,8 +1,8 @@
 ---
 layout: default
 title: COSC 794 - Quantum Machine Learning
-parent: Teaching
-nav_order: 3
+parent: Service
+nav_order: 1
 has_children: false
 ---
 
