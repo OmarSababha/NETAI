@@ -2,7 +2,7 @@
 layout: default
 title: Teaching
 nav_order: 8
-parent: Teaching
+parent: service
 ---
 
 # COSC 794: Quantum Machine Learning
