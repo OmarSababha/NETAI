@@ -9,6 +9,9 @@ has_children: false
 
 # COSC 794: Quantum Machine Learning
 
+<img src="/NETAI/images/quantum-ml-cover.png" alt="Quantum ML" width="700" style="display: block; margin-top: 10px; margin-bottom: 20px; border-radius: 8px;">
+
+
 This graduate-level course provides an introduction to the foundations and practical aspects of Quantum Machine Learning (QML). The course aims to equip students with both the theoretical background and hands-on experience necessary to understand and explore the intersection of quantum computing and machine learning.
 
 ## Course Abstract
