@@ -18,10 +18,10 @@ nav_order: 4
 papers and codes available 
 {: .label .label-purple }
 
-30. **Personalized Ventricular Arrhythmia Detection via One-Class Meta-Learning**  
-   *A. Jaradat, G. Alsuhli, O. Alhussein, H. Saleh, and T. Stouraitis*
-    submitted to IEEE J. IoT.
-    
+   
+30. **Personalized Ventricular Arrhythmia Detection via One-Class Meta-Learning**
+   *A. Jaradat, G. Alsuhli, O. Alhussein, H. Saleh, and T. Stouraitis*, submitted to IEEE J. IoT.
+      
 29. **Hybrid Quantum-Classical Maximum-Likelihood Detection via Grover-based Adaptive Search for RIS-assisted Broadband Wireless Systems**  
    *M. Tariq, R. Abdelrahim, O. Alhussein, S. Muhaidat*
     CoRR abs/2505.03914. [Download pre-print](files/publications/quantum_MLD_conference2.pdf)
