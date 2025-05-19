@@ -100,7 +100,7 @@ Working on task-oriented networks and protocol learning
 
 ## Research Assistants and Interns
 
-![Henok Daniel](images/people/humanicon.jpg){: style="width: 150px;"} 
+![Henok Daniel](images/people/henok.jpeg){: style="width: 150px;"} 
 
 **Henok Daniel**, Research Assistant, BSc from Khalifa University, UAE.
 
