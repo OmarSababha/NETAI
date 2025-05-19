@@ -66,18 +66,19 @@ I have received my MASc degree from Simon Fraser University under the supervisio
 
 ## Postdoctoral Researchers
 
-![Dr. Ismail Lotfi](images/ismail_lotfi_profile.png){: style="width: 150px;"}
-
-**Dr. Ismail Lotfi**, PhD from NTU, Singapore.
-
-Working on strategic mechanism design with generative AI
-
 ![Dr. Yuzhi Yang](images/yuzhi_yang.gif){: style="width: 150px;"}
 
 **Dr. Yuzhi Yang**, PhD Zhejiang University, China.
 
 
 ## PhD Students
+
+![Mohammad Rasyidi](images/arif.jpg){: style="width: 150px;"} 
+
+**Mohammad Rasyidi**, MSc from Universitas Internasional Semen Indonesia.
+
+Working on Quantum Machine Learning for Next-Generation Networks
+
 
 ![Nouf Alabbasi](images/Nouf_alabbasi_profile.png){: style="width: 150px;"} 
 
@@ -103,9 +104,10 @@ Working on task-oriented networks and protocol learning
 
 **Henok Daniel**, Research Assistant, BSc from Khalifa University, UAE.
 
-![Hatim Lucman](images/people/hatim.jpeg){: style="width: 150px;"} 
+## Past Members
 
-**Hatim Lucman**, Intern @ 6GRC, BSc student at Khalifa University, UAE.
+2024-2025, **Ismail Lotfi**, Postdoctoral fellow with NETAI Team.
+Summer 2024, **Hatim Lucman**, Intern @6GRC, BSc student at Khalifa University, UAE.
 
 
 
