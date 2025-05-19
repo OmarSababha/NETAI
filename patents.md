@@ -41,5 +41,5 @@ nav_order: 5
 
 1. **[Methods, systems and computer program products for protecting a deep reinforcement learning agent](https://patentimages.storage.googleapis.com/58/d0/aa/a4e9930b2041b9/US20230185932A1.pdf)**  
    *O. Alhussein, P. Ashwood-Smith*  
-   United States Patent Application 17/546,768, June 2023.
+   United States Patent Application 17/546,768, June 2023. <span class="text-purple-000">(granted)</span>
    [Download PDF](files/patents/US20230185932A1.pdf)
