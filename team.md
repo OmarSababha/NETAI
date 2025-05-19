@@ -20,7 +20,7 @@ nav_order: 2
 ## Team Lead
 
 
-![Dr. Omar Alhussein](images/people/omar4.jpg){: style="width: 150px;"}
+![Dr. Omar Alhussein](images/omar4.jpg){: style="width: 150px;"}
 
 **Dr. Omar Alhussein**, Assistant Professor
 
