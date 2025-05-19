@@ -98,7 +98,7 @@ Working on task-oriented networks and protocol learning
 ![Saoud Almansoori](images/people/humanicon.jpg){: style="width: 150px;"}
 **Saoud Almansoori**, MSc student, BSc from NYU-AD, UAE.
 
-## Research Assistants and Interns
+## Research Assistants
 
 ![Henok Daniel](images/people/henok.jpg){: style="width: 150px;"} 
 
