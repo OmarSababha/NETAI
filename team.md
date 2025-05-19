@@ -96,6 +96,7 @@ Working on task-oriented networks and protocol learning
 
 ## MSc Students
 ![Saoud Almansoori](images/people/humanicon.jpg){: style="width: 150px;"}
+
 **Saoud Almansoori**, MSc student, BSc from NYU-AD, UAE.
 
 ## Research Assistants
@@ -107,6 +108,7 @@ Working on task-oriented networks and protocol learning
 ## Past Members
 
 2024-2025, **Ismail Lotfi**, Postdoctoral fellow with NETAI Team.
+
 Summer 2024, **Hatim Lucman**, Intern @6GRC, BSc student at Khalifa University, UAE.
 
 
