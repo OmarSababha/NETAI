@@ -20,7 +20,7 @@ nav_order: 2
 ## Team Lead
 
 
-![Dr. Omar Alhussein](images/omar4.jpg){: style="width: 150px;"}
+![Dr. Omar Alhussein](images/people/omar4.jpg){: style="width: 150px;"}
 
 **Dr. Omar Alhussein**, Assistant Professor
 
@@ -100,7 +100,7 @@ Working on task-oriented networks and protocol learning
 
 ## Research Assistants and Interns
 
-![Henok Daniel](images/people/henok.jpeg){: style="width: 150px;"} 
+![Henok Daniel](images/people/henok.jpg){: style="width: 150px;"} 
 
 **Henok Daniel**, Research Assistant, BSc from Khalifa University, UAE.
 
