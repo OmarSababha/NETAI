@@ -20,7 +20,7 @@ nav_order: 5
 
 6. **Methods, Apparatuses, and Systems for Federated Learning**  
    *M. Hosseini, O. Alhussein, A. Akhavain*
-   United States Patent Application #, 2023.
+   United States Patent Application #, 2024.
 
 5. **Communication-efficient training for wireless split learning based network functions**  
    *O. Alhussein, A. Akhavain*
