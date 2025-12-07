@@ -26,6 +26,7 @@ nav_order: 1
 <p style="font-size: medium; margin-top: -15px;">led by Dr. Omar Alhussein</p>
 
 **Looking for postdoctoral fellow in quantum computing/ML!**
+  
 **Not accepting PhD applications at the moment.**
 
 ##  Research Interests
