@@ -25,16 +25,17 @@ nav_order: 1
 # Welcome to NetAI Research Group
 <p style="font-size: medium; margin-top: -15px;">led by Dr. Omar Alhussein</p>
 
-**Accepting PhD applications!**
+**Looking for postdoctoral fellow in quantum computing/ML!**
+**Not accepting PhD applications at the moment.**
 
 ##  Research Interests
-- information-bottleneck theory, distributed learning
-- Explainable and resilient AI
-- Quantum machine learning
-- Network intelligence, network optimization
+- Network intelligence
+- Network optimization
+- Quantum computing and machine learning
 
 ## News
-
+- **Dec 2025**: We are holding a conference on [Quantum Science and Technology for Sustainable Development](https://ku.events/QSTSD/) at Khalifa University, hosting speakers from the region and around the world.
+- **Dec 2025**: We are holding a [quantum winter school](https://ku.events/qws/) at Khalifa University, featuring technical talks from world-class researchers from the region and around the world.
 - **May 2024**: [Paper accepted to IFIP Networking Workshops](files/publications/NWDAF_IFIP.pdf), showcasing an end-to-end 5G testbed with open-source enhanced NWDAF implementation.
 - **May 2024**: Wrapped up teaching a newly developed graduate course on [quantum machine learning](quantum-machine-learning.html).
 <!-- ### Dec 2024 -->
@@ -73,7 +74,7 @@ I received my Ph.D. degree with the [BBCR lab](https://uwaterloo.ca/broadband-co
 
 My MASc was obtained from Simon Fraser University under the supervision of Prof. [Jie Liang](https://www.sfu.ca/~jiel/) and Prof. [Sami Muhaidat](https://sites.google.com/view/muhaidat/home?authuser=0). My [thesis](research_masc.html) is on the performance analysis of generalized and composite wireless fading channels through the use of mixture distributions.
 
-Please feel free to contact me for anything.
+Please feel free to contact me for anything. 
  -->
 
 
