@@ -62,23 +62,39 @@ I have received my MASc degree from Simon Fraser University under the supervisio
   </a>
 </p> -->
 
+## Research Assistants
+
+![Henok Daniel](images/people/henok.jpg){: style="width: 150px;"} 
+
+**Henok Daniel**, Research Assistant, BSc from Khalifa University, UAE.
 
 
 ## Postdoctoral Researchers
 
-![Dr. Yuzhi Yang](images/yuzhi_yang.gif){: style="width: 150px;"}
+![Dr. Yuzhi Yang](images/people/essra.jpeg){: style="width: 150px;"}
 
-**Dr. Yuzhi Yang**, PhD Zhejiang University, China.
+**Dr. Essra Ghourab**, PhD Khalifa University, UAE.
 
 
 ## PhD Students
+
+![Ala\' Alsamarneh](images/people/humanicon.jpg){: style="width: 150px;"} 
+
+**Ala\' Alsamarneh**, MSc from Jordan University of Science and Technology.
+
+Working on multiagent based network optimization
+
+![MohammadNour Ebdah](images/people/Nour.jpeg){: style="width: 150px;"} 
+
+**MohammadNour Ebdah**, BSc from Jordan University of Science and Technology.
+
+Working on the intersection of quantum computing and network security
 
 ![Mohammad Rasyidi](images/arif.jpg){: style="width: 150px;"} 
 
 **Mohammad Rasyidi**, MSc from Universitas Internasional Semen Indonesia.
 
 Working on Quantum Machine Learning for Next-Generation Networks
-
 
 ![Nouf Alabbasi](images/Nouf_alabbasi_profile.png){: style="width: 150px;"} 
 
@@ -98,12 +114,6 @@ Working on task-oriented networks and protocol learning
 ![Saoud Almansoori](images/people/humanicon.jpg){: style="width: 150px;"}
 
 **Saoud Almansoori**, MSc student, BSc from NYU-AD, UAE.
-
-## Research Assistants
-
-![Henok Daniel](images/people/henok.jpg){: style="width: 150px;"} 
-
-**Henok Daniel**, Research Assistant, BSc from Khalifa University, UAE.
 
 ## Past Members
 
