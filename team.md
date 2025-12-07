@@ -84,7 +84,7 @@ I have received my MASc degree from Simon Fraser University under the supervisio
 
 Working on multiagent based network optimization
 
-![MohammadNour Ebdah](images/people/Nour.jpeg){: style="width: 150px;"} 
+![MohammadNour Ebdah](images/people/Nour.jpg){: style="width: 150px;"} 
 
 **MohammadNour Ebdah**, BSc from Jordan University of Science and Technology.
 
