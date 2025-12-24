@@ -18,13 +18,25 @@ nav_order: 4
 papers and codes available 
 {: .label .label-purple }
 
-   
-30. **Personalized Ventricular Arrhythmia Detection via One-Class Meta-Learning**
-   *A. Jaradat, G. Alsuhli, O. Alhussein, H. Saleh, and T. Stouraitis*, submitted to IEEE J. IoT.
-      
+
+
+33. **Hybrid Quantum-Classical Autoencoders for Unsupervised Network Intrusion Detection**
+   *M. Rasyidi, O. Alhussein, S. Muhaidat, and E. Damiani*, CoRR abs/2512.05069. [Download pre-print](https://arxiv.org/abs/2512.05069) [Code available](https://github.com/arasyi/hqcae-network-intrusion-detection)
+
+32. **Hybrid Quantum-Classical Detection for RIS-Assisted SC-FDE via Grover Adaptive Search**
+   *M. Tariq, O. Alhussein, R. Abdelraheem, A. Quran, G. Kaddoum, and S. Muhaidat*, CoRR abs/2511.04173. [Download pre-print](https://arxiv.org/abs/2511.04173)
+
+31. **Casting Ventricular Arrhythmia Detection as Anomaly Detection via One-Class Meta-Learning**
+   *A. Jaradat, H. Saleh, O. Alhussein, G. Alsuhli, and T. Stouraitis*, submitted to IEEE J. IoT. [Download pre-print](https://www.techrxiv.org/doi/full/10.36227/techrxiv.175978773.36904182)
+
+30. **Adaptive token merging for efficient transformer semantic communication at the edge**  
+   *O. Erak, O. Alhussein, H. Abou-Zeid, M. Bennis, and S. Muhaidat*
+    CoRR abs/2509.09955. [Download pre-print] (https://arxiv.org/abs/2509.09955)
+    
+
 29. **Hybrid Quantum-Classical Maximum-Likelihood Detection via Grover-based Adaptive Search for RIS-assisted Broadband Wireless Systems**  
    *M. Tariq, R. Abdelrahim, O. Alhussein, S. Muhaidat*
-    CoRR abs/2505.03914. [Download pre-print](files/publications/quantum_MLD_conference2.pdf)
+    CoRR abs/2505.03914. Accepted to Proc. IEEE Globecom Workshops. [Download pre-print](files/publications/quantum_MLD_conference2.pdf)
 
 
 29. **Enhanced Open-Source NWDAF for Event-Driven Analytics in 5G Networks**  
