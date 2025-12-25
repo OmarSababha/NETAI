@@ -20,21 +20,37 @@ papers and codes available
 
 
 
-33. **Hybrid Quantum-Classical Autoencoders for Unsupervised Network Intrusion Detection**
+
+38. **Hybrid Quantum-Classical Autoencoders for Unsupervised Network Intrusion Detection**
    *M. Rasyidi, O. Alhussein, S. Muhaidat, and E. Damiani*, CoRR abs/2512.05069. [Download pre-print](https://arxiv.org/abs/2512.05069) [Code available](https://github.com/arasyi/hqcae-network-intrusion-detection)
 
-32. **Hybrid Quantum-Classical Detection for RIS-Assisted SC-FDE via Grover Adaptive Search**
+37. **Casting Ventricular Arrhythmia Detection as Anomaly Detection via One-Class Meta-Learning**
+   *A. Jaradat, H. Saleh, O. Alhussein, G. Alsuhli, and T. Stouraitis*, submitted to IEEE J. IoT. [Download pre-print](https://www.techrxiv.org/doi/full/10.36227/techrxiv.175978773.36904182)
+    
+36. **Hybrid Quantum-Classical Detection for RIS-Assisted SC-FDE via Grover Adaptive Search**
    *M. Tariq, O. Alhussein, R. Abdelraheem, A. Quran, G. Kaddoum, and S. Muhaidat*, CoRR abs/2511.04173. [Download pre-print](https://arxiv.org/abs/2511.04173)
 
-31. **Casting Ventricular Arrhythmia Detection as Anomaly Detection via One-Class Meta-Learning**
-   *A. Jaradat, H. Saleh, O. Alhussein, G. Alsuhli, and T. Stouraitis*, submitted to IEEE J. IoT. [Download pre-print](https://www.techrxiv.org/doi/full/10.36227/techrxiv.175978773.36904182)
+35. **Covert IRS-UAV Networks Empowered by Deep Reinforcement Learning**  
+   *EM Ghourab, O. Alhussein, D. Mi, Q. Ye, S. Muhaidat*
+    IEEE J. Selected Areas Commun, in-press. [Download pre-print]()
 
-30. **Adaptive token merging for efficient transformer semantic communication at the edge**  
+34. **Adaptive token merging for efficient transformer semantic communication at the edge**  
    *O. Erak, O. Alhussein, H. Abou-Zeid, M. Bennis, and S. Muhaidat*
-    CoRR abs/2509.09955. [Download pre-print] (https://arxiv.org/abs/2509.09955)
-    
+    CoRR abs/2509.09955. [Download pre-print](https://arxiv.org/abs/2509.09955)
 
-29. **Hybrid Quantum-Classical Maximum-Likelihood Detection via Grover-based Adaptive Search for RIS-assisted Broadband Wireless Systems**  
+33. **Non-Identical Diffusion Models in MIMO-OFDM Channel Generation**  
+   *Y. Yang, O. Alhussein, M. Debbah*
+    CoRR abs/2509.01641. [Download pre-print](https://arxiv.org/abs/2509.01641)
+
+32. **Extended reality-aware wireless communication networks: A systematic literature review**  
+   *E. M. Ghourab, M. Azab, D. Gračanin, O. Alhussein, M. Al-Qutayri, and S. Muhaidat*
+    IEEE Open Journal of the Communications Society. [Download paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11124590)
+
+31. **Rethinking Strategic Mechanism Design In The Age Of Large Language Models: New Directions For Communication Systems**  
+   *I. Lotfi, N. Alabbasi, and O. Alhussein*
+    IEEE Internet of Things Magazine. [Download paper](https://arxiv.org/abs/2412.00495)
+
+30. **Hybrid Quantum-Classical Maximum-Likelihood Detection via Grover-based Adaptive Search for RIS-assisted Broadband Wireless Systems**  
    *M. Tariq, R. Abdelrahim, O. Alhussein, S. Muhaidat*
     CoRR abs/2505.03914. Accepted to Proc. IEEE Globecom Workshops. [Download pre-print](files/publications/quantum_MLD_conference2.pdf)
 
