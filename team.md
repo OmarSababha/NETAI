@@ -1,4 +1,4 @@
-<img width="1174" height="357" alt="image" src="https://github.com/user-attachments/assets/561a6b16-fbb6-4b5c-8395-6ce5a2f02669" />---
+---
 layout: default
 title: Team
 nav_order: 2
