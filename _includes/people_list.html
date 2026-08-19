@@ -1,0 +1,48 @@
+{%- comment -%}
+Renders people from _data/team.yml as a photo grid.
+
+Usage:
+  {% include people_list.html project="quantum-networks" %}   -> everyone on that project
+  {% include people_list.html group="phd" %}                  -> one group
+  {% include people_list.html group="phd" show_projects=true %}
+
+Optional: empty="..." overrides the message shown when nothing matches.
+{%- endcomment -%}
+{%- assign shown = 0 -%}
+<div class="people-grid">
+{%- for m in site.data.team -%}
+  {%- assign ok = true -%}
+  {%- if include.project -%}
+    {%- unless m.projects contains include.project -%}{%- assign ok = false -%}{%- endunless -%}
+  {%- endif -%}
+  {%- if include.group -%}
+    {%- unless m.group == include.group -%}{%- assign ok = false -%}{%- endunless -%}
+  {%- endif -%}
+  {%- if include.exclude_past -%}
+    {%- if m.group == "past" -%}{%- assign ok = false -%}{%- endif -%}
+  {%- endif -%}
+  {%- if ok -%}
+    {%- assign shown = shown | plus: 1 -%}
+<div class="person-card">
+{%- if m.photo %}<img class="person-photo" src="{{ m.photo | relative_url }}" alt="{{ m.name }}">{% endif %}
+<div class="person-name">{{ m.name }}</div>
+{%- if m.role %}<div class="person-role">{{ m.role }}</div>{% endif -%}
+{%- if m.working_on %}<div class="person-working">{{ m.working_on }}</div>{% endif -%}
+{%- if include.show_projects -%}
+  {%- if m.projects and m.projects.size > 0 %}<div class="person-tags">
+  {%- for pid in m.projects -%}
+    {%- assign pr = site.data.projects | where: "id", pid | first -%}
+    {%- if pr %}<a class="tag" href="{{ pr.url | relative_url }}">{{ pr.title }}</a>{% endif -%}
+  {%- endfor -%}
+</div>{% endif -%}
+{%- endif -%}
+{%- if m.links and m.links.size > 0 %}<div class="person-links">
+{%- for l in m.links %}<a href="{{ l.url | relative_url }}">{{ l.label }}</a>{%- unless forloop.last %} &middot; {% endunless -%}{%- endfor -%}
+</div>{% endif -%}
+</div>
+  {%- endif -%}
+{%- endfor -%}
+</div>
+{%- if shown == 0 -%}
+<p class="pub-empty">{{ include.empty | default: "No team members tagged to this project yet." }}</p>
+{%- endif -%}
