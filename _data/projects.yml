@@ -1,0 +1,125 @@
+# Each project here needs a matching page in projects/<id>.md
+# with `project_id: <id>` in its front matter.
+#
+# `id` is the tag used in publications.yml and team.yml.
+# Order in this file controls the order of cards on the Projects page.
+
+- id: semantic-task-oriented
+  title: Semantic and Task-Oriented Networks
+  url: projects/semantic-task-oriented.html
+  image: images/splitNNzoomed.jpg
+  blurb: >-
+    Rethinking transmission around the task, not the bits: split inference,
+    information-bottleneck training, and efficient edge transformers.
+  description: |
+    Conventional communication systems are designed to reproduce bits faithfully,
+    regardless of what those bits are ultimately used for. In most modern
+    applications the receiver is not a human but a model, and what matters is
+    whether the downstream task succeeds — a classification, a detection, a
+    control decision. This project asks what a network looks like when it is
+    designed around that objective directly.
+
+    Our work centres on split inference and split learning, where a model is
+    partitioned between the device and the edge, and on the use of
+    information-bottleneck theory to decide what a device should actually send.
+    This yields encoders that transmit task-relevant information and discard the
+    rest, which cuts bandwidth and, when designed carefully, also limits what a
+    curious observer can infer about the raw input. Related threads include
+    adversarial disentanglement for privacy-aware semantic communication,
+    topology-preserving joint source-channel coding, adaptive token merging for
+    transformer models at the edge, and layer-wise federated learning for mobile
+    networks.
+
+    **Open directions.** Task-oriented protocol learning between agents;
+    robustness of semantic encoders under distribution shift; and formal privacy
+    guarantees for learned representations.
+
+- id: quantum-networks
+  title: Quantum Computing for Networks
+  url: projects/quantum-networks.html
+  image: images/quantum-ml-cover.png
+  blurb: >-
+    Where quantum algorithms genuinely help networked systems — detection,
+    intrusion detection, optimization, and quantum channel analysis.
+  description: |
+    Quantum computing is often discussed in the abstract. This project takes a
+    narrower and more practical question: for which concrete problems in
+    communication networks does a quantum or hybrid quantum-classical method
+    offer a real advantage, and at what circuit depth and qubit count?
+
+    We work on hybrid quantum-classical detection, using Grover adaptive search
+    for maximum-likelihood detection in RIS-assisted broadband systems, where the
+    search space structure is a good match for amplitude amplification. A second
+    thread applies hybrid quantum-classical autoencoders to unsupervised network
+    intrusion detection, treating anomalies as reconstruction failures in a
+    quantum latent space. A third combines QUBO formulations with classical
+    preprocessing to make quantum-enhanced image segmentation tractable at
+    realistic problem sizes. Alongside the algorithmic work, we analyse
+    atmospheric quantum channels with pointing errors, which bounds what
+    free-space quantum links can deliver in practice.
+
+    The group also runs teaching and community activity in this area, including
+    the graduate course [COSC 794: Quantum Machine Learning](../quantum-machine-learning.html)
+    and the Khalifa University quantum winter schools.
+
+    **Open directions.** Barren plateaus and trainability in network-scale
+    circuits; quantum reinforcement learning for resource allocation; and
+    quantum-assisted security for the network core.
+
+- id: llm-networks
+  title: LLM for Networks
+  url: projects/llm-networks.html
+  image: images/banner_westcoast.jpg
+  blurb: >-
+    Making large language models useful to network operations: retrieval over
+    3GPP standards, curriculum design, and AI-native network functions.
+  description: |
+    Telecom knowledge is vast, highly structured, and largely locked in
+    specification documents that are difficult to query. General-purpose language
+    models perform poorly on it — they hallucinate specification detail and lack
+    the long-context grounding the domain demands. This project builds and
+    evaluates models that are specialized for network knowledge and network
+    operations.
+
+    TeleOracle, our fine-tuned retrieval-augmented generation system with
+    long-context support for 3GPP standards, is the anchor of this work; the
+    approach placed third in the ITU/Huawei competition on specializing large
+    language models for telecom networks. Related work covers LLM-driven
+    curriculum design for mobile networks, LLM-aided A\* search over
+    non-geometric network graphs, strategic mechanism design when the agents in a
+    system are themselves language models, and an LLM-enabled NWDAF as a step
+    toward AI-native 6G network intelligence.
+
+    **Open directions.** Agentic operation and closed-loop control of live
+    networks; evaluation benchmarks that reflect operator tasks rather than
+    question answering; and cost-efficient inference at the network edge.
+
+- id: network-optimization-nfv
+  title: Network Optimization and NFV
+  url: projects/network-optimization-nfv.html
+  image: images/phd_images/plan_abstract2.jpg
+  blurb: >-
+    Orchestration, placement, and routing for virtualized services, and learned
+    control policies for wireless and aerial networks.
+  description: |
+    Network function virtualization decouples network functions from proprietary
+    hardware, which makes service-customized networks possible but shifts the
+    difficulty into orchestration: which functions to compose, where to place
+    them, and how to route traffic through them under uncertainty. This project
+    covers that problem and its learning-based descendants.
+
+    Foundational work in this thread addresses joint composition, placement, and
+    routing for NFV-enabled multicast services, robust online orchestration when
+    demand is not known in advance, and dynamic topology design using deep
+    reinforcement learning. More recent work extends learned control to wireless
+    and aerial settings — resource sharing and trajectory optimization for
+    multi-operator UAV networks, covert IRS-UAV networks trained with deep
+    reinforcement learning, and access class barring for machine-type devices,
+    where preamble detection and collision resolution pull in opposite
+    directions. We also develop open-source network data analytics function
+    (NWDAF) tooling on a 5G testbed, so that analytics work can be evaluated
+    end-to-end rather than in simulation alone.
+
+    **Open directions.** Multi-agent learning for network optimization;
+    orchestration under adversarial conditions; and closing the gap between
+    testbed and production deployment.

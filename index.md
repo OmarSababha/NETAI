@@ -34,6 +34,22 @@ nav_order: 1
 - Network optimization
 - Quantum computing and machine learning
 
+## Current Projects
+
+<div class="project-grid">
+{%- for p in site.data.projects -%}
+<a class="project-card" href="{{ p.url | relative_url }}">
+{%- if p.image %}<span class="project-thumb" style="background-image:url('{{ p.image | relative_url }}')"></span>{% endif %}
+<span class="project-card-body">
+<span class="project-card-title">{{ p.title }}</span>
+<span class="project-card-blurb">{{ p.blurb }}</span>
+</span>
+</a>
+{%- endfor -%}
+</div>
+
+<p><a href="{{ '/projects.html' | relative_url }}">See all projects &rarr;</a></p>
+
 ## News
 - **Dec 2025**: We are holding a conference on [Quantum Science and Technology for Sustainable Development](https://ku.events/QSTSD/) at Khalifa University, hosting speakers from the region and around the world.
 - **Dec 2025**: We are holding a [quantum winter school](https://ku.events/qws/) at Khalifa University, featuring technical talks from world-class researchers from the region and around the world.

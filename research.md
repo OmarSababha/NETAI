@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Research
-nav_order: 3
+title: Past Research
+nav_order: 9
 nav_exclude: true
 ---
 <!-- Google tag (gtag.js) -->
@@ -15,7 +15,9 @@ nav_exclude: true
 </script>
 
 
-# Featured and Current Research Projects
+# Past Research
+
+Earlier and completed work. For what the group is doing now, see the [projects]({{ "/projects.html" | relative_url }}) page.
 
 
 ## Goal-oriented Semantic-based Networks

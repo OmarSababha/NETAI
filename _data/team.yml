@@ -1,0 +1,113 @@
+# Single source of truth for team members.
+#
+# Fields:
+#   name     - display name
+#   group    - one of: lead, postdoc, phd, msc, ra, past  (see _data/team_groups.yml for order)
+#   role     - short role line shown under the name
+#   photo    - path to image, relative to site root
+#   bio      - longer text (lead only, rendered as markdown)
+#   working_on - one-line description used on project pages and the team page
+#   links    - list of {label, url}
+#   projects - list of project ids from _data/projects.yml
+#
+# Valid project ids:
+#   semantic-task-oriented, quantum-networks, llm-networks, network-optimization-nfv
+
+- name: "Dr. Omar Alhussein"
+  group: lead
+  role: "Assistant Professor"
+  photo: "images/people/omar4.jpg"
+  bio: |
+    Omar Alhussein received his Ph.D. in Electrical and Computer Engineering from
+    the University of Waterloo, Canada, in 2020, and his Master of Applied Science
+    (MASc.) degree in Engineering Science from Simon Fraser University, Canada, in
+    2015. Since Fall 2023, he has been an Assistant Professor in the Department of
+    Computer Science at Khalifa University, United Arab Emirates. Prior to joining
+    Khalifa University, he worked as a senior research engineer with the advanced
+    networking team at Huawei Technologies Canada in Ottawa from 2020 to 2023.
+    Dr. Alhussein serves as an Associate Editor for IEEE Transactions on Network
+    and Service Management and Peer-to-Peer Networking and Applications (Springer
+    Nature). With high-impact publications and award-winning patents, he has made
+    significant contributions to the fields of networking and artificial
+    intelligence. He is the recipient of multiple awards spanning both academic and
+    industrial achievements. His research interests include network intelligence
+    and optimization, semantic task-oriented systems, and quantum-assisted
+    networked systems.
+  links:
+    - label: "omar.alhussein@ku.ac.ae"
+      url: "mailto:omar.alhussein@ku.ac.ae"
+    - label: "Google Scholar"
+      url: "https://scholar.google.ca/citations?user=_4mKHpcAAAAJ&hl=en"
+    - label: "ResearchGate"
+      url: "https://www.researchgate.net/profile/Omar_Alhussein"
+    - label: "KU Profile"
+      url: "https://www.ku.ac.ae/college-people/omar-alhussein"
+  projects: [semantic-task-oriented, quantum-networks, llm-networks, network-optimization-nfv]
+
+- name: "Dr. Essra Ghourab"
+  group: postdoc
+  role: "Postdoctoral Researcher"
+  photo: "images/people/essra.jpeg"
+  working_on: "Covert and secure wireless networks, and LLM-aided search over network graphs"
+  projects: [network-optimization-nfv, llm-networks]
+
+- name: "Ala' Alsamarneh"
+  group: phd
+  role: "PhD Student, MSc from Jordan University of Science and Technology"
+  photo: "images/people/humanicon.jpg"
+  working_on: "Multiagent-based network optimization"
+  projects: [network-optimization-nfv]
+
+- name: "MohammadNour Ebdah"
+  group: phd
+  role: "PhD Student, BSc from Jordan University of Science and Technology"
+  photo: "images/people/Nour.jpg"
+  working_on: "The intersection of quantum computing and network security"
+  projects: [quantum-networks]
+
+- name: "Mohammad Rasyidi"
+  group: phd
+  role: "PhD Student, MSc from Universitas Internasional Semen Indonesia"
+  photo: "images/arif.jpg"
+  working_on: "Quantum machine learning for next-generation networks"
+  projects: [quantum-networks]
+
+- name: "Nouf Alabbasi"
+  group: phd
+  role: "PhD Student, BSc from NYU, UAE"
+  photo: "images/Nouf_alabbasi_profile.png"
+  working_on: "LLMs for network operations and management"
+  projects: [llm-networks]
+
+- name: "Omar Erak"
+  group: phd
+  role: "PhD Student, BSc from University of Calgary"
+  photo: "images/omar_erak_profile.png"
+  working_on: "Task-oriented networks and protocol learning"
+  links:
+    - label: "KU Profile"
+      url: "https://www.ku.ac.ae/college-people/omar-erak"
+  projects: [semantic-task-oriented]
+
+- name: "Saoud Almansoori"
+  group: msc
+  role: "MSc Student, BSc from NYU-AD, UAE"
+  photo: "images/people/humanicon.jpg"
+  projects: []
+
+- name: "Henok Daniel"
+  group: ra
+  role: "Research Assistant, BSc from Khalifa University, UAE"
+  photo: "images/people/henok.jpg"
+  working_on: "Open-source NWDAF and AI-native network intelligence on a 5G testbed"
+  projects: [llm-networks, network-optimization-nfv]
+
+- name: "Ismail Lotfi"
+  group: past
+  role: "Postdoctoral fellow with the NETAI team, 2024–2025"
+  projects: [llm-networks]
+
+- name: "Hatim Lucman"
+  group: past
+  role: "Intern @6GRC, Summer 2024, BSc student at Khalifa University, UAE"
+  projects: []

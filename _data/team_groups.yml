@@ -1,0 +1,15 @@
+# Controls the order and headings of sections on the Team page.
+# The `id` must match the `group` field used in _data/team.yml.
+
+- id: lead
+  heading: "Team Lead"
+- id: postdoc
+  heading: "Postdoctoral Researchers"
+- id: phd
+  heading: "PhD Students"
+- id: msc
+  heading: "MSc Students"
+- id: ra
+  heading: "Research Assistants"
+- id: past
+  heading: "Past Members"
