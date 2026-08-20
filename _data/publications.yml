@@ -36,7 +36,7 @@
   links:
     - label: "Download pre-print"
       url: "https://arxiv.org/abs/2606.23136"
-  projects: [llm-networks, network-optimization-nfv]
+  projects: [llm-networks]
 
 - id: 45
   title: "LLM-Enabled NWDAF: A Step Toward AI-Native 6G Network Intelligence"
@@ -63,7 +63,7 @@
   links:
     - label: "Download paper"
       url: "https://doi.org/10.1109/ACCESS.2026.3704015"
-  projects: [network-optimization-nfv]
+  projects: []
 
 - id: 42
   title: "Model Compression for Sustainable AI in xG Wireless Networks: Recent Advances, Challenges, and Future Directions"
@@ -72,7 +72,7 @@
   links:
     - label: "Download paper"
       url: "https://ieeexplore.ieee.org/document/11478444/"
-  projects: [semantic-task-oriented]
+  projects: []
 
 - id: 41
   title: "Contrastive Learning and Adversarial Disentanglement for Privacy-Aware Task-Oriented Semantic Communication"
@@ -130,7 +130,7 @@
   links:
     - label: "Download paper"
       url: "https://doi.org/10.1109/TVT.2026.3679329"
-  projects: [network-optimization-nfv]
+  projects: []
 
 - id: 35
   title: "Hybrid Quantum-Classical Autoencoders for Unsupervised Network Intrusion Detection"
@@ -275,7 +275,7 @@
       url: "https://arxiv.org/abs/2406.03630"
     - label: "Code available"
       url: "https://github.com/OmarSababha/active_ML"
-  projects: [semantic-task-oriented]
+  projects: [llm-networks]
 
 - id: 20
   title: "Large language model-driven curriculum design for mobile networks"
