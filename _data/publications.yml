@@ -19,7 +19,7 @@
   links:
     - label: "Download pre-print"
       url: "https://arxiv.org/abs/2607.24288"
-  projects: [quantum-networks]
+  projects: []
 
 - id: 47
   title: "Detection Error Probability Analysis over Atmospheric Quantum Channels with Pointing Errors: A Physically Admissible Bounded Transmissivity Framework"
@@ -28,7 +28,7 @@
   links:
     - label: "Download paper"
       url: "https://ieeexplore.ieee.org/abstract/document/11578279/"
-  projects: [quantum-networks]
+  projects: []
 
 - id: 46
   title: "LLM-Aided A* Search in Non-Geometric Network Graphs"
@@ -64,7 +64,7 @@
   links:
     - label: "Download paper"
       url: "https://doi.org/10.1109/ACCESS.2026.3704015"
-  projects: [network-optimization-ai]
+  projects: []
 
 - id: 42
   title: "Model Compression for Sustainable AI in xG Wireless Networks: Recent Advances, Challenges, and Future Directions"
@@ -73,7 +73,7 @@
   links:
     - label: "Download paper"
       url: "https://ieeexplore.ieee.org/document/11478444/"
-  projects: [network-optimization-ai]
+  projects: []
 
 - id: 41
   title: "Contrastive Learning and Adversarial Disentanglement for Privacy-Aware Task-Oriented Semantic Communication"
@@ -142,7 +142,7 @@
       url: "https://arxiv.org/abs/2512.05069"
     - label: "Code available"
       url: "https://github.com/arasyi/hqcae-network-intrusion-detection"
-  projects: [quantum-networks]
+  projects: []
 
 - id: 34
   title: "Hybrid Quantum-Classical Detection for RIS-Assisted SC-FDE via Grover Adaptive Search"
@@ -151,7 +151,7 @@
   links:
     - label: "Download pre-print"
       url: "https://arxiv.org/abs/2511.04173"
-  projects: [quantum-networks]
+  projects: []
 
 - id: 33
   title: "Non-Identical Diffusion Models in MIMO-OFDM Channel Generation"
@@ -171,14 +171,14 @@
       url: "https://arxiv.org/abs/2509.09168"
   projects: [semantic-task-oriented]
 
-- id: 31
-  title: "Hybrid Quantum-Classical Maximum-Likelihood Detection via Grover Adaptive Search for RIS-assisted Broadband Wireless Systems"
-  authors: "M. Tariq, R. Abdelrahim, O. Alhussein, and S. Muhaidat"
-  venue: "in Proc. IEEE Globecom Workshops, 2025, pp. 466–471."
-  links:
-    - label: "Download pre-print"
-      url: "https://arxiv.org/abs/2505.03914"
-  projects: [quantum-networks]
+# - id: 31
+#   title: "Hybrid Quantum-Classical Maximum-Likelihood Detection via Grover Adaptive Search for RIS-assisted Broadband Wireless Systems"
+#   authors: "M. Tariq, R. Abdelrahim, O. Alhussein, and S. Muhaidat"
+#   venue: "in Proc. IEEE Globecom Workshops, 2025, pp. 466–471."
+#   links:
+#     - label: "Download pre-print"
+#       url: "https://arxiv.org/abs/2505.03914"
+#   projects: [quantum-networks]
 
 - id: 30
   title: "Extended Reality-Aware Wireless Communication Networks: A Systematic Literature Review"

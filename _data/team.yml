@@ -20,8 +20,8 @@
   bio: |
     Omar Alhussein received his Ph.D. in Electrical and Computer Engineering from
     the University of Waterloo, Canada, in 2020, and his Master of Applied Science
-    (MASc.) degree in Engineering Science from Simon Fraser University, Canada, in
-    2015. Since Fall 2023, he has been an Assistant Professor in the Department of
+    (MASc.) degree in Engineering Science from Simon Fraser University, Canada, in 2025. 
+    Since Fall 2023, he has been an Assistant Professor in the Department of
     Computer Science at Khalifa University, United Arab Emirates. Prior to joining
     Khalifa University, he worked as a senior research engineer with the advanced
     networking team at Huawei Technologies Canada in Ottawa from 2020 to 2023.
@@ -49,7 +49,7 @@
   role: "Postdoctoral Researcher"
   photo: "images/people/essra.jpeg"
   working_on: "Covert and secure wireless networks, and LLM-aided search over network graphs"
-  projects: [network-optimization-ai, llm-networks]
+  projects: [quantum-networks, llm-networks]
 
 - name: "Ala' Alsamarneh"
   group: phd
