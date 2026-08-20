@@ -51,6 +51,10 @@ nav_order: 1
 <p><a href="{{ '/projects.html' | relative_url }}">See all projects &rarr;</a></p>
 
 ## News
+- **Oct 2026**: Dr. Omar Alhussein and Dr. Mahdi Chehimi will deliver a tutorial on *Quantum Machine Learning for IoT Networks: Foundations, Models, and Applications* at the [IEEE 12th World Forum on Internet of Things (WF-IoT 2026)](https://wfiot2026.iot.ieee.org/), held in Abu Dhabi, UAE, 26–29 October 2026.
+- **Jul 2026**: Invited talk at the University of Calgary — *Networks That Ask for Help: Uncertainty, Guidance, and Trust on the Road to AI-Native 6G* — delivered at the Electrical and Software Engineering research seminar on 13 July 2026, hosted by Prof. Qiang (John) Ye. [Seminar brochure](files/news/calgary_ese_seminar_jul2026.pdf)
+- **Jul 2026**: Invited talk at Western University — *Networks That Ask for Help: Uncertainty, Guidance, and Trust on the Road to AI-Native 6G* — delivered at Western Engineering and co-sponsored by Western's Optimized Computing and Communications (OC2) Lab. [Event details](https://events.vtools.ieee.org/m/566849)
+- **Jun 2026**: Research leave at Western University, Canada, from 20 June to 20 July 2026, hosted by Prof. [Abdallah Shami](https://www.eng.uwo.ca/electrical/faculty/shami_a/). Thanks for the hospitality and the collaborations that came out of it.
 - **Dec 2025**: We are holding a conference on [Quantum Science and Technology for Sustainable Development](https://ku.events/QSTSD/) at Khalifa University, hosting speakers from the region and around the world.
 - **Dec 2025**: We are holding a [quantum winter school](https://ku.events/qws/) at Khalifa University, featuring technical talks from world-class researchers from the region and around the world.
 - **May 2024**: [Paper accepted to IFIP Networking Workshops](files/publications/NWDAF_IFIP.pdf), showcasing an end-to-end 5G testbed with open-source enhanced NWDAF implementation.

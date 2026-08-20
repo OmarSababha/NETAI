@@ -61,7 +61,7 @@
 - name: "MohammadNour Ebdah"
   group: phd
   role: "PhD Student, BSc from Jordan University of Science and Technology"
-  photo: "images/people/Nour.jpg"
+  photo: "images/people/nour.jpg"
   working_on: "The intersection of quantum computing and network security"
   projects: [quantum-networks]
 

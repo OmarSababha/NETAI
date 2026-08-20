@@ -2,6 +2,7 @@
 layout: default
 title: Teaching
 nav_order: 8
+has_children: true
 ---
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-E09K8XMPK5"></script>

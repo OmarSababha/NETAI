@@ -1,15 +1,14 @@
 ---
 layout: default
 title: COSC 794 - Quantum Machine Learning
-parent: Service
+parent: Teaching
 nav_order: 1
-has_children: false
 ---
 
 
 # COSC 794: Quantum Machine Learning
 
-<img src="/NETAI/images/quantum-ml-cover.png" alt="Quantum ML" width="700" style="display: block; margin-top: 10px; margin-bottom: 20px; border-radius: 8px;">
+<img src="{{ '/images/quantum-ml-cover.png' | relative_url }}" alt="Quantum ML" width="700" style="display: block; margin-top: 10px; margin-bottom: 20px; border-radius: 8px;">
 
 
 This graduate-level course provides an introduction to the foundations and practical aspects of Quantum Machine Learning (QML). The course aims to equip students with both the theoretical background and hands-on experience necessary to understand and explore the intersection of quantum computing and machine learning.
@@ -77,4 +76,4 @@ Students will gain hands-on experience with quantum programming frameworks and a
 
 *Instructor: Dr. Omar Alhussein*
 
-For updates and course materials, please refer to the [Teaching](/NETAI/teaching) page.
+For updates and course materials, please refer to the [Teaching]({{ '/service.html' | relative_url }}) page.

@@ -10,17 +10,11 @@ url: https://omarsababha.github.io/NETAI/
 footer_content: "" # This will remove the footer content
 
 # Just the Docs settings
-just_the_docs:
-  search_enabled: true
-  logo: "images/icons/favicon.png"
-  show_localization: false
-  aux_links: false
-  # Set the order of navigation
-  nav_order: 
-    - Home
-    - Team
-    - Publications
-    - Patents
-    - Resources
-    - Gallery
-    - Teaching
+# NOTE: these must be top-level keys. Nesting them under `just_the_docs:`
+# silently disables them (that key is only for collections config).
+search_enabled: true
+logo: "/images/icons/favicon.png"
+
+# Navigation order is set per-page via `nav_order` in each page's front matter
+# (Home 1, Team 2, Projects 3, Publications 4, Patents 5, Resources 6,
+# Gallery 7, Teaching 8).
