@@ -9,7 +9,8 @@
 #   projects - list of project ids from _data/projects.yml; omit or leave empty if none apply
 #
 # Valid project ids:
-#   semantic-task-oriented, quantum-networks, llm-networks, network-optimization-nfv
+#   semantic-task-oriented, quantum-networks, llm-networks, network-optimization-ai
+#   network-optimization-nfv (past project)
 
 - id: 48
   title: "Superpixel-Based QUBO for Scalable Quantum-Enhanced Medical Image Segmentation"
@@ -63,7 +64,7 @@
   links:
     - label: "Download paper"
       url: "https://doi.org/10.1109/ACCESS.2026.3704015"
-  projects: []
+  projects: [network-optimization-ai]
 
 - id: 42
   title: "Model Compression for Sustainable AI in xG Wireless Networks: Recent Advances, Challenges, and Future Directions"
@@ -72,7 +73,7 @@
   links:
     - label: "Download paper"
       url: "https://ieeexplore.ieee.org/document/11478444/"
-  projects: []
+  projects: [network-optimization-ai]
 
 - id: 41
   title: "Contrastive Learning and Adversarial Disentanglement for Privacy-Aware Task-Oriented Semantic Communication"
@@ -110,7 +111,7 @@
   links:
     - label: "Download paper"
       url: "https://doi.org/10.1109/JSAC.2025.3642218"
-  projects: [network-optimization-nfv]
+  projects: [network-optimization-ai]
 
 - id: 37
   title: "Generative Diffusion Receivers: Achieving Pilot-Efficient MIMO-OFDM Communications"
@@ -130,7 +131,7 @@
   links:
     - label: "Download paper"
       url: "https://doi.org/10.1109/TVT.2026.3679329"
-  projects: []
+  projects: [network-optimization-ai]
 
 - id: 35
   title: "Hybrid Quantum-Classical Autoencoders for Unsupervised Network Intrusion Detection"
@@ -226,7 +227,7 @@
       url: "https://arxiv.org/abs/2601.01838"
     - label: "Code available"
       url: "https://github.com/HenokDanielbfg/5g-testbed-conference"
-  projects: [network-optimization-nfv]
+  projects: [network-optimization-ai]
 
 - id: 25
   title: "Leveraging fine-tuned retrieval-augmented generation with long-context support: for 3GPP standards"
@@ -275,7 +276,7 @@
       url: "https://arxiv.org/abs/2406.03630"
     - label: "Code available"
       url: "https://github.com/OmarSababha/active_ML"
-  projects: [llm-networks]
+  projects: [network-optimization-ai]
 
 - id: 20
   title: "Large language model-driven curriculum design for mobile networks"

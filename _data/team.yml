@@ -42,21 +42,21 @@
       url: "https://www.researchgate.net/profile/Omar_Alhussein"
     - label: "KU Profile"
       url: "https://www.ku.ac.ae/college-people/omar-alhussein"
-  projects: [semantic-task-oriented, quantum-networks, llm-networks, network-optimization-nfv]
+  projects: [semantic-task-oriented, quantum-networks, llm-networks, network-optimization-ai, network-optimization-nfv]
 
 - name: "Dr. Essra Ghourab"
   group: postdoc
   role: "Postdoctoral Researcher"
   photo: "images/people/essra.jpeg"
   working_on: "Covert and secure wireless networks, and LLM-aided search over network graphs"
-  projects: [network-optimization-nfv, llm-networks]
+  projects: [network-optimization-ai, llm-networks]
 
 - name: "Ala' Alsamarneh"
   group: phd
   role: "PhD Student, MSc from Jordan University of Science and Technology"
   photo: "images/people/humanicon.jpg"
   working_on: "Multiagent-based network optimization"
-  projects: [network-optimization-nfv]
+  projects: [network-optimization-ai]
 
 - name: "MohammadNour Ebdah"
   group: phd
@@ -100,7 +100,7 @@
   role: "Research Assistant, BSc from Khalifa University, UAE"
   photo: "images/people/henok.jpg"
   working_on: "Open-source NWDAF and AI-native network intelligence on a 5G testbed"
-  projects: [llm-networks, network-optimization-nfv]
+  projects: [llm-networks, network-optimization-ai]
 
 - name: "Ismail Lotfi"
   group: past

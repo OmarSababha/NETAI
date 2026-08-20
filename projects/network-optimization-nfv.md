@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Network Optimization and NFV
+title: NFV-Enabled Multicast Services
 parent: Projects
-nav_order: 4
+nav_order: 5
 project_id: network-optimization-nfv
 ---
 <!-- Google tag (gtag.js) -->
@@ -15,6 +15,10 @@ project_id: network-optimization-nfv
   gtag('config', 'G-E09K8XMPK5');
 </script>
 
-# Network Optimization and NFV
+# NFV-Enabled Multicast Services
+{: .no_toc }
+
+Past project
+{: .label }
 
 {% include project_page.html %}

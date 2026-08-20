@@ -14,19 +14,19 @@
   description: |
 
 
-  In 1949, Shannon and Weaver categorized the problem of communications into three levels, 
-  namely (i) the technical: transmission of symbols; (ii) the semantic: transmission of meaning; 
-  and (iii) the effectiveness: effect of semantic information exchange. While Shannon’s communication 
-  model considers the technical aspect only. There is a growing interest in re-examining this fundamental 
-  consideration and incorporating semantics into the 6G fabric. In Shannon’s communications theory, 
-  a bit is the smallest unit of “information”. In this project, we are interested in exploring how 
-  theoretical and practical advances in machine learning can be used to redefine the atomic unit of a 
-  packet, moving beyond Shannon’s statistical bit of information to a contextual (or operational) iota of 
-  information. That is, by incorporating effective semantics, we can move to goal-oriented autonomic 
-  protocols that enable and improve the network. Central to the research is the exploration of machine learning advances, 
-  particularly the information-bottleneck (IB) theory and generative AI, to improve networking protocols. 
-  The project aims to integrate these paradigms into a new framework of semantic-based protocols, 
-  transcending the traditional bit-level communication model.
+    In 1949, Shannon and Weaver categorized the problem of communications into three levels,
+    namely (i) the technical: transmission of symbols; (ii) the semantic: transmission of meaning;
+    and (iii) the effectiveness: effect of semantic information exchange. While Shannon’s communication
+    model considers the technical aspect only. There is a growing interest in re-examining this fundamental
+    consideration and incorporating semantics into the 6G fabric. In Shannon’s communications theory,
+    a bit is the smallest unit of “information”. In this project, we are interested in exploring how
+    theoretical and practical advances in machine learning can be used to redefine the atomic unit of a
+    packet, moving beyond Shannon’s statistical bit of information to a contextual (or operational) iota of
+    information. That is, by incorporating effective semantics, we can move to goal-oriented autonomic
+    protocols that enable and improve the network. Central to the research is the exploration of machine learning advances,
+    particularly the information-bottleneck (IB) theory and generative AI, to improve networking protocols.
+    The project aims to integrate these paradigms into a new framework of semantic-based protocols,
+    transcending the traditional bit-level communication model.
 
 - id: quantum-networks
   title: Quantum Computing for Networks
@@ -36,11 +36,11 @@
     Where quantum algorithms genuinely help networked systems — detection,
     intrusion detection, optimization, and quantum channel analysis.
   description: |
-  This project investigates two complementary paths toward quantum-enabled networking: 
-  (1) applying quantum and quantum-inspired methods to optimize complex, 
-  distributed communication networks, and (2) developing scalable quantum-network architectures and algorithms. 
-  The goal is to enable efficient, privacy-preserving collaboration across multiple network domains, 
-  with solutions that work on today’s classical systems while preparing for emerging quantum technologies.
+    This project investigates two complementary paths toward quantum-enabled networking:
+    (1) applying quantum and quantum-inspired methods to optimize complex,
+    distributed communication networks, and (2) developing scalable quantum-network architectures and algorithms.
+    The goal is to enable efficient, privacy-preserving collaboration across multiple network domains,
+    with solutions that work on today’s classical systems while preparing for emerging quantum technologies.
 
 - id: llm-networks
   title: LLM for Networks
@@ -50,14 +50,84 @@
     Making large language models useful to network operations with retrieval over
     3GPP standards, curriculum design, and LLM-assisted network optimization
   description: |
+    Telecom knowledge is vast, highly structured, and largely locked in
+    specification documents that are difficult to query. General-purpose language
+    models perform poorly on it — they hallucinate specification detail and lack
+    the long-context grounding the domain demands. This project builds and
+    evaluates models that are specialized for network knowledge and network
+    operations.
 
+    TeleOracle, our fine-tuned retrieval-augmented generation system with
+    long-context support for 3GPP standards, is the anchor of this work; the
+    approach placed third in the ITU/Huawei competition on specializing large
+    language models for telecom networks. Related work covers LLM-driven
+    curriculum design for mobile networks, LLM-aided A\* search over
+    non-geometric network graphs, strategic mechanism design when the agents in a
+    system are themselves language models, and an LLM-enabled NWDAF as a step
+    toward AI-native 6G network intelligence.
 
-# - id: network-optimization-nfv
-#   title: Network Optimization
-#   url: projects/network-optimization-nfv.html
-#   image: images/phd_images/plan_abstract2.jpg
-#   blurb: >-
-#     Orchestration, placement, and routing for virtualized services, and learned
-#     control policies for wireless and aerial networks.
-#   description: |
+    **Open directions.** Agentic operation and closed-loop control of live
+    networks; evaluation benchmarks that reflect operator tasks rather than
+    question answering; and cost-efficient inference at the network edge.
+
+- id: network-optimization-ai
+  title: AI for Network Optimization
+  url: projects/network-optimization-ai.html
+  # image: TODO — a figure from the active ML for 6G paper would sit well here.
+  blurb: >-
+    Learning-based control and optimization for wireless networks: data-efficient
+    training, multi-agent resource allocation, and analytics that run on a live testbed.
+  description: |
+    Classical network optimization assumes the problem is fully specified — demand is
+    known, the channel is modelled, the objective can be written down. Real networks
+    violate all three. This project develops learning-based methods that optimize
+    network resources under uncertainty and, just as importantly, that are cheap
+    enough to train and deploy on real systems rather than only in simulation.
+
+    A central thread is data efficiency. Our vision work on active machine learning
+    for 6G argues that the binding constraint on learned network functions is not
+    model capacity but the cost of acquiring and annotating data, and shows how a
+    network can query an oracle only for the samples it is most uncertain about.
+    Related threads cover multi-agent approaches to network optimization, deep
+    reinforcement learning for resource sharing and UAV trajectory design in
+    multi-operator networks, covert IRS-UAV networks, access class barring for
+    machine-type devices, and model compression for sustainable AI in xG networks.
+    Underpinning the applied work is our open-source NWDAF-enabled 5G testbed, which
+    extends Free5GC with event-driven analytics so that these methods can be
+    evaluated end to end rather than in simulation alone.
+
+    **Open directions.** Multi-agent learning for network optimization; optimization
+    under adversarial conditions; and closing the gap between testbed and production
+    deployment.
+
+# ---------------------------------------------------------------------------
+# Past projects. Set `status: past` to move a project out of the current grids
+# on the home page and the top of the Projects page; it keeps its own page,
+# team list and publication list.
+# ---------------------------------------------------------------------------
+
+- id: network-optimization-nfv
+  title: NFV-Enabled Multicast Services
+  status: past
+  url: projects/network-optimization-nfv.html
+  image: images/phd_images/plan_abstract2.jpg
+  blurb: >-
+    PhD research on orchestrating NFV-enabled multicast services — joint composition,
+    placement and routing, with robust online strategies under unknown demand.
+  description: |
+    Network function virtualization decouples network functions from proprietary
+    hardware, which makes service-customized networks possible but shifts the
+    difficulty into orchestration: which functions to compose, where to place them,
+    and how to route traffic through them under uncertainty. This was the subject of
+    Dr. Omar Alhussein's PhD research at the University of Waterloo, completed in 2020.
+
+    The work addressed three problems essential to orchestrating network services of
+    a multicast nature, in which a source is connected to a set of destinations
+    through a service function chain: joint composition, placement and routing for
+    NFV-enabled multicast services; robust online orchestration when demand is not
+    known in advance; and dynamic topology design using deep reinforcement learning.
+
+    The project is complete. Its learning-based successors are pursued under
+    [AI for Network Optimization](network-optimization-ai.html), and the broader
+    earlier research history is collected on the [past research](../research.html) page.
 

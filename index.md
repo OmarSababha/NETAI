@@ -38,6 +38,7 @@ nav_order: 1
 
 <div class="project-grid">
 {%- for p in site.data.projects -%}
+{%- unless p.status == "past" -%}
 <a class="project-card" href="{{ p.url | relative_url }}">
 {%- if p.image %}<span class="project-thumb" style="background-image:url('{{ p.image | relative_url }}')"></span>{% endif %}
 <span class="project-card-body">
@@ -45,6 +46,7 @@ nav_order: 1
 <span class="project-card-blurb">{{ p.blurb }}</span>
 </span>
 </a>
+{%- endunless -%}
 {%- endfor -%}
 </div>
 
