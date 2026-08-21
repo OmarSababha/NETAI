@@ -16,9 +16,9 @@ nav_order: 1
 
 
 <!-- Banner Image -->
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
   <img src="images/banner_westcoast.jpg" alt="Banner Image" style="width: 100%; height: auto;">
-</div>
+</div> -->
 
 <meta name="google-site-verification" content="JTYMP4QvfeA_ey_V0Y4VKC-jxEP4XrDuqlYQw9baC5s" />
 

@@ -48,8 +48,8 @@
   group: postdoc
   role: "Postdoctoral Researcher"
   photo: "images/people/essra.jpeg"
-  working_on: "Covert and secure wireless networks, and LLM-aided search over network graphs"
-  projects: [quantum-networks, llm-networks]
+  working_on: "Covert and secure wireless networks, and quantum-inspired optimization"
+  projects: [quantum-networks]
 
 - name: "Ala' Alsamarneh"
   group: phd
@@ -62,28 +62,28 @@
   group: phd
   role: "PhD Student, BSc from Jordan University of Science and Technology"
   photo: "images/people/nour.jpg"
-  working_on: "The intersection of quantum computing and network security"
+  working_on: "architecture and optimization of quantum-enabled networks"
   projects: [quantum-networks]
 
 - name: "Mohammad Rasyidi"
   group: phd
   role: "PhD Student, MSc from Universitas Internasional Semen Indonesia"
   photo: "images/arif.jpg"
-  working_on: "Quantum machine learning for next-generation networks"
+  working_on: "Quantum machine learning and optimization for next-generation networks"
   projects: [quantum-networks]
 
 - name: "Nouf Alabbasi"
   group: phd
   role: "PhD Student, BSc from NYU, UAE"
   photo: "images/Nouf_alabbasi_profile.png"
-  working_on: "LLMs for network operations and management"
+  working_on: "LLMs for network operations and optimization"
   projects: [llm-networks]
 
 - name: "Omar Erak"
   group: phd
   role: "PhD Student, BSc from University of Calgary"
   photo: "images/omar_erak_profile.png"
-  working_on: "Task-oriented networks and protocol learning"
+  working_on: "Task-oriented networks and semantic communications"
   links:
     - label: "KU Profile"
       url: "https://www.ku.ac.ae/college-people/omar-erak"
@@ -93,7 +93,8 @@
   group: msc
   role: "MSc Student, BSc from NYU-AD, UAE"
   photo: "images/people/humanicon.jpg"
-  projects: []
+  working_on: "conformal prediction"
+  projects: [semantic-task-oriented]
 
 - name: "Henok Daniel"
   group: ra
