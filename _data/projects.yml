@@ -29,7 +29,7 @@
 - id: quantum-networks
   title: Quantum Computing and Networks
   url: projects/quantum-networks.html
-  image: images/QIN_Year.png
+  # image: images/QIN_Year.png
   blurb: >-
     Where quantum algorithms genuinely help networked systems; quantum machine learning,
     quantum-inspired optimization, and quantum-aware protocol and architecture design.
