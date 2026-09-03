@@ -20,23 +20,22 @@ has_children: true
    *Fall 2026*  
    Graduate course split between convex optimization fundamentals and theory, and deep reinforcement learning.
 
-1. **COSC xxx: Data Science and Generative AI**  
+2. **COSC xxx: Data Science and Generative AI**  
    *Fall 2026*  
    MSc course providing introduction to data science and generative AI.
 
-
-1. **COSC 794: Quantum Machine Learning**  
+3. **COSC 794/402: Quantum Machine Learning**  
    *Spring 2025*  
-   Graduate course exploring the intersection of quantum computing and machine learning.
+   Graduate and undergraduate course exploring the intersection of quantum computing and machine learning.
 
 <!--    1. **[COSC 794: Quantum Machine Learning](quantum-machine-learning.html)**  
    *Spring 2025*  
    Graduate course exploring the intersection of quantum computing and machine learning. -->
 
-2. **CCEN 365: Computer Networks**  
+4. **CCEN 365: Computer Networks**  
    *Fall 2023, Spring 2024*  
    Undergraduate course covering networking fundamentals and protocols.
 
-3. **COSC 202: Data Science and AI**  
+5. **COSC 202: Data Science and AI**  
    *Spring 2024, Fall 2024, Spring 2025*  
    Undergraduate course introducing core data science and AI concepts.

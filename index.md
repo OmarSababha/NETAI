@@ -31,8 +31,9 @@ nav_order: 1
 
 ##  Research Interests
 - Network intelligence
-- Network optimization
-- Quantum computing and machine learning
+- Task-oriented and semantic communications
+- Quantum ML and optimization for networking
+- Quantum-enabled networks
 
 ## Current Projects
 
