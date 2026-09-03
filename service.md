@@ -16,9 +16,22 @@ has_children: true
 
 # Teaching
 
-1. **[COSC 794: Quantum Machine Learning](quantum-machine-learning.html)**  
+1. **CCEN 749: Convex Optimization and Reinforcement Learning**  
+   *Fall 2026*  
+   Graduate course split between convex optimization fundamentals and theory, and deep reinforcement learning.
+
+1. **COSC xxx: Data Science and Generative AI**  
+   *Fall 2026*  
+   MSc course providing introduction to data science and generative AI.
+
+
+1. **COSC 794: Quantum Machine Learning**  
    *Spring 2025*  
    Graduate course exploring the intersection of quantum computing and machine learning.
+
+<!--    1. **[COSC 794: Quantum Machine Learning](quantum-machine-learning.html)**  
+   *Spring 2025*  
+   Graduate course exploring the intersection of quantum computing and machine learning. -->
 
 2. **CCEN 365: Computer Networks**  
    *Fall 2023, Spring 2024*  
