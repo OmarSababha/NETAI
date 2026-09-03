@@ -10,10 +10,8 @@
   image: images/splitNNzoomed.jpg
   blurb: >-
     Rethinking transmission around the task, not the bits: split inference,
-    information-bottleneck training, efficient semantic communication systems, and topology-aware semantic systems
+    information-bottleneck training, efficient semantic communication systems, and topology-aware semantic systems.
   description: |
-
-
     In 1949, Shannon and Weaver categorized the problem of communications into three levels,
     namely (i) the technical: transmission of symbols; (ii) the semantic: transmission of meaning;
     and (iii) the effectiveness: effect of semantic information exchange. While Shannon’s communication
@@ -31,10 +29,10 @@
 - id: quantum-networks
   title: Quantum Computing and Networks
   url: projects/quantum-networks.html
-  # image: images/QIN_Year.png
+  image: images/QIN_Year.png
   blurb: >-
-    Where quantum algorithms genuinely help networked systems — quantum machine learning,
-    quantum-inspired optimization, quantum channel analysis, and quantum-aware protocol and architecture design.
+    Where quantum algorithms genuinely help networked systems; quantum machine learning,
+    quantum-inspired optimization, and quantum-aware protocol and architecture design.
   description: |
     This project investigates two complementary paths toward quantum-enabled networking:
     (1) applying quantum and quantum-inspired methods to optimize complex,
@@ -50,7 +48,7 @@
     Making large language models useful to network operations with retrieval over
     3GPP standards, curriculum design, and LLM-assisted network optimization.
   description: |
-  under construction
+    under construction.
 
 - id: network-optimization-ai
   title: Network for AI
@@ -59,7 +57,7 @@
   blurb: >-
     Learning and optimization for AI-centric network control.
   description: |
-  under construction
+    under construction.
 
 
 - id: network-optimization-nfv
