@@ -50,25 +50,7 @@
     Making large language models useful to network operations with retrieval over
     3GPP standards, curriculum design, and LLM-assisted network optimization
   description: |
-    Telecom knowledge is vast, highly structured, and largely locked in
-    specification documents that are difficult to query. General-purpose language
-    models perform poorly on it — they hallucinate specification detail and lack
-    the long-context grounding the domain demands. This project builds and
-    evaluates models that are specialized for network knowledge and network
-    operations.
-
-    TeleOracle, our fine-tuned retrieval-augmented generation system with
-    long-context support for 3GPP standards, is the anchor of this work; the
-    approach placed third in the ITU/Huawei competition on specializing large
-    language models for telecom networks. Related work covers LLM-driven
-    curriculum design for mobile networks, LLM-aided A\* search over
-    non-geometric network graphs, strategic mechanism design when the agents in a
-    system are themselves language models, and an LLM-enabled NWDAF as a step
-    toward AI-native 6G network intelligence.
-
-    **Open directions.** Agentic operation and closed-loop control of live
-    networks; evaluation benchmarks that reflect operator tasks rather than
-    question answering; and cost-efficient inference at the network edge.
+  <under construction>
 
 - id: network-optimization-ai
   title: Network for AI
@@ -78,6 +60,7 @@
     Learning and optimization for network control — and the networks that pervasive
     AI services, agentic workloads and robotics will demand in return.
   description: |
+  <under construction>
 # ---------------------------------------------------------------------------
     # Classical network optimization assumes the problem is fully specified — demand is
     # known, the channel is modelled, the objective can be written down. Real networks
