@@ -33,8 +33,8 @@
   url: projects/quantum-networks.html
   # image: images/QIN_Year.png
   blurb: >-
-    Where quantum algorithms genuinely help networked systems — detection,
-    intrusion detection, optimization, and quantum channel analysis.
+    Where quantum algorithms genuinely help networked systems — quantum machine learning,
+    quantum-inspired optimization, quantum channel analysis, and quantum-aware protocol and architecture design
   description: |
     This project investigates two complementary paths toward quantum-enabled networking:
     (1) applying quantum and quantum-inspired methods to optimize complex,
@@ -57,8 +57,7 @@
   url: projects/network-optimization-ai.html
   # image: TODO — a figure from the active ML for 6G paper would sit well here.
   blurb: >-
-    Learning and optimization for network control — and the networks that pervasive
-    AI services, agentic workloads and robotics will demand in return.
+    Learning and optimization for AI-centric network control.
   description: |
   <under construction>
 # ---------------------------------------------------------------------------
