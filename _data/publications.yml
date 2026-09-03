@@ -15,7 +15,7 @@
 - id: 48
   title: "Superpixel-Based QUBO for Scalable Quantum-Enhanced Medical Image Segmentation"
   authors: "M. Chalhoub, M. Chehimi, L. Domingo, O. Alhussein, A. Farouk, and S. Al-Kuwari"
-  venue: "CoRR abs/2607.24288, 2026."
+  venue: "CoRR abs/2607.24288, 2026. Accepted to Proc. IEEE QCE"
   links:
     - label: "Download pre-print"
       url: "https://arxiv.org/abs/2607.24288"
@@ -171,14 +171,14 @@
       url: "https://arxiv.org/abs/2509.09168"
   projects: [semantic-task-oriented]
 
-# - id: 31
-#   title: "Hybrid Quantum-Classical Maximum-Likelihood Detection via Grover Adaptive Search for RIS-assisted Broadband Wireless Systems"
-#   authors: "M. Tariq, R. Abdelrahim, O. Alhussein, and S. Muhaidat"
-#   venue: "in Proc. IEEE Globecom Workshops, 2025, pp. 466–471."
-#   links:
-#     - label: "Download pre-print"
-#       url: "https://arxiv.org/abs/2505.03914"
-#   projects: [quantum-networks]
+- id: 31
+  title: "Hybrid Quantum-Classical Maximum-Likelihood Detection via Grover Adaptive Search for RIS-assisted Broadband Wireless Systems"
+  authors: "M. Tariq, R. Abdelrahim, O. Alhussein, and S. Muhaidat"
+  venue: "in Proc. IEEE Globecom Workshops, 2025, pp. 466–471."
+  links:
+    - label: "Download pre-print"
+      url: "https://arxiv.org/abs/2505.03914"
+  projects: [quantum-networks]
 
 - id: 30
   title: "Extended Reality-Aware Wireless Communication Networks: A Systematic Literature Review"
