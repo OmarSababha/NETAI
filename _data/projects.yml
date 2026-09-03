@@ -31,7 +31,7 @@
 - id: quantum-networks
   title: Quantum Computing and Networks
   url: projects/quantum-networks.html
-  image: images/QIN_Year.png
+  # image: images/QIN_Year.png
   blurb: >-
     Where quantum algorithms genuinely help networked systems — detection,
     intrusion detection, optimization, and quantum channel analysis.
