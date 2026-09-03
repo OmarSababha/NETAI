@@ -29,7 +29,7 @@
     transcending the traditional bit-level communication model.
 
 - id: quantum-networks
-  title: Quantum Computing for Networks
+  title: Quantum Computing and Networks
   url: projects/quantum-networks.html
   image: images/QIN_Year.png
   blurb: >-
@@ -38,9 +38,9 @@
   description: |
     This project investigates two complementary paths toward quantum-enabled networking:
     (1) applying quantum and quantum-inspired methods to optimize complex,
-    distributed communication networks, and (2) developing scalable quantum-network architectures and algorithms.
+    distributed communication networks, and (2) developing scalable quantum-network architectures and protocols.
     The goal is to enable efficient, privacy-preserving collaboration across multiple network domains,
-    with solutions that work on today’s classical systems while preparing for emerging quantum technologies.
+    with solutions that is compatible with today’s classical systems while preparing for emerging quantum technologies.
 
 - id: llm-networks
   title: LLM for Networks

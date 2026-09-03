@@ -19,7 +19,7 @@
   links:
     - label: "Download pre-print"
       url: "https://arxiv.org/abs/2607.24288"
-  projects: []
+  projects: [quantum-networks]
 
 - id: 47
   title: "Detection Error Probability Analysis over Atmospheric Quantum Channels with Pointing Errors: A Physically Admissible Bounded Transmissivity Framework"
@@ -28,7 +28,7 @@
   links:
     - label: "Download paper"
       url: "https://ieeexplore.ieee.org/abstract/document/11578279/"
-  projects: []
+  projects: [quantum-networks]
 
 - id: 46
   title: "LLM-Aided A* Search in Non-Geometric Network Graphs"
@@ -142,7 +142,7 @@
       url: "https://arxiv.org/abs/2512.05069"
     - label: "Code available"
       url: "https://github.com/arasyi/hqcae-network-intrusion-detection"
-  projects: []
+  projects: [quantum-networks]
 
 - id: 34
   title: "Hybrid Quantum-Classical Detection for RIS-Assisted SC-FDE via Grover Adaptive Search"
@@ -151,7 +151,7 @@
   links:
     - label: "Download pre-print"
       url: "https://arxiv.org/abs/2511.04173"
-  projects: []
+  projects: [quantum-networks]
 
 - id: 33
   title: "Non-Identical Diffusion Models in MIMO-OFDM Channel Generation"
